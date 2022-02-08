@@ -1,14 +1,4 @@
 [
-    "mtndew.diet",
-    "mtndew.zs",
-    "mtndew.amp",
-    "mtndew.gf",
-    "mtndew.agf",
-    "mtndew.agfzs",
-    "mtndew.spiked",
-    "mtndew.energy",
-    "mtndew.ks",
-    "mtndew.hard",
     "mtndew.diet.og",
     "mtndew.diet.caffeine_free",
     "mtndew.diet.code_red",
@@ -138,7 +128,6 @@
  
 
 
-    "bubly.bounce",
     "bubly.blackberry",
     "bubly.lime",
     "bubly.cherry",
@@ -163,4 +152,46 @@
     "bubly.bounce.blood_orange_grapefruit",
     "bubly.bounce.citrus_cherry",
     "bubly.bounce.blueberry_pomegranate"
+    
+    
+    
+    
+    "pepsi.og",
+    "pepsi.diet.og",
+    "pepsi.diet.wild_cherry",
+    "pepsi.diet.cherry_vanilla",
+    "pepsi.diet.vanilla",
+    "pepsi.zs.og",
+    "pepsi.zs.wild_cherry",
+    "pepsi.zs.vanilla",
+    "pepsi.zs.mango",
+    "pepsi.zs.crystal",
+    "pepsi.next.og",
+    "pepsi.next.cherry_vanilla",
+    "pepsi.next.paradise_mango",
+    "pepsi.ss.cream_soda",
+    "pepsi.ss.black_cherry",
+    "pepsi.rs.og",
+    "pepsi.rs.vanilla",
+    "pepsi.rs.wild_cherry",
+    "pepsi.1893.original_cola",
+    "pepsi.1893.citrus_cola",
+    "pepsi.1893.ginger_cola",
+    "pepsi.1893.black_currant_cola",
+    "pepsi.wild_cherry",
+    "pepsi.cherry_vanilla",
+    "pepsi.vanilla",
+    "pepsi.mango",
+    "pepsi.lime",
+    "pepsi.berry",
+    "pepsi.pineapple",
+    "pepsi.blue",
+    "pepsi.crystal",
+    "pepsi.fire",
+    "pepsi.salted_caramel",
+    "pepsi.apple_pie",
+    "pepsi.cocoa_cola",
+    "pepsi.peeps",
+    "pepsi.x",
+    "pepsi.cracker_jack"
 ]
