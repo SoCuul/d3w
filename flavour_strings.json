@@ -127,6 +127,8 @@
     "mtndew.voodew_2022",
     "mtndew.white_label",
     "mtndew.white_out",
+    "mtndew.multipack",
+
 
 
 
@@ -135,7 +137,9 @@
     "mug.diet.root_beer",
     "mug.diet.cream_soda",
     "mug.zs.root_beer",
+    "mug.multipack",
  
+
 
 
     "bubly.blackberry",
@@ -163,9 +167,11 @@
     "bubly.bounce.blood_orange_grapefruit",
     "bubly.bounce.citrus_cherry",
     "bubly.bounce.blueberry_pomegranate",
+    "bubly.multipack",
     
     
     
+
     
     "pepsi.og",
     "pepsi.diet.og",
@@ -205,20 +211,47 @@
     "pepsi.peeps",
     "pepsi.x",
     "pepsi.cracker_jack",
+    "pepsi.multipack",
 
 
 
-    "brisk.zs.lemon",
-    "brisk.lemon",
-    "brisk.strawberry_melon",
-    "brisk.zs.kiwi_strawberry",
-    "brisk.hh.iced_tea_watermelon_lemonade",
-    "brisk.blackberry_smash",
-    "brisk.hh.icedtealemonade",
-    "brisk.lemonade",
-    "brisk.sweet_tea",
-    "brisk.raspberry_iced_tea",
-    "brisk.pink_lemonade",
-    "brisk.fruit_punch",
-    "brisk.peach"
+
+
+    "brisk.it.honey_ginseng",
+    "brisk.it.mango_fiesta",
+    "brisk.it.lemon",
+    "brisk.it.raspberry",
+    "brisk.it.sweet_tea",
+    "brisk.it.peach",
+    "brisk.it.apple",
+    "brisk.it.pineapple_passionfruit",
+    "brisk.it.strawberry_melon",
+    "brisk.it.blackberry_smash",
+    "brisk.it.tropical_mango",
+    "brisk.it.tropical_mango_goji_strawberry",
+    "brisk.it.blood_orange",
+    "brisk.it.blood_orange_freeze",
+    "brisk.dit.lemon",
+    "brisk.zsit.lemon",
+    "brisk.zsit.kiwi_strawberry",
+    "brisk.ncit.green_tea_juicy_peach",
+    "brisk.eit.mango",
+    "brisk.eit.dragonfruit",
+    "brisk.eit.cherry",
+    "brisk.hh.tropical_lemonade",
+    "brisk.hh.lemonade",
+    "brisk.hh.cherry_limeade",
+    "brisk.hh.watermelon_lemonade",
+    "brisk.hh.blueberry_lemonade",
+    "brisk.fusion.lemonade",
+    "brisk.df.guava_ginger_limeade",
+    "brisk.fruteria.watermelon",
+    "brisk.fruteria.pineapple",
+    "brisk.fruteria.mango",
+    "brisk.jd.pink_lemonade",
+    "brisk.jd.lemonade",
+    "brisk.jd.fruit_punch",
+    "brisk.jd.strawberry_melon",
+    "brisk.green.apple",
+    "brisk.multipack"
 ]
