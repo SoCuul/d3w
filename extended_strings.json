@@ -1,399 +1,396 @@
 [
       {
-            "mtndew.og": "MTN DEW Lineup, Flavor Name"
+            "mtndew.diet.og": "MTN DEW Diet, Flavor Name"
       },
       {
-            "mtndew.diet.og": "MTN DEW Lineup, Flavor Name"
+            "mtndew.diet.caffeine_free": "MTN DEW Diet, Flavor Name"
       },
       {
-            "mtndew.diet.caffeine_free": "MTN DEW Lineup, Flavor Name"
+            "mtndew.diet.code_red": "MTN DEW Diet, Flavor Name"
       },
       {
-            "mtndew.diet.code_red": "MTN DEW Lineup, Flavor Name"
+            "mtndew.diet.voltage": "MTN DEW Diet, Flavor Name"
       },
       {
-            "mtndew.diet.voltage": "MTN DEW Lineup, Flavor Name"
+            "mtndew.diet.supernova": "MTN DEW Diet, Flavor Name"
       },
       {
-            "mtndew.diet.supernova": "MTN DEW Lineup, Flavor Name"
+            "mtndew.zs.og": "MTN DEW Zero Sugar, Flavor Name"
       },
       {
-            "mtndew.zs.og": "MTN DEW Lineup, Flavor Name"
+            "mtndew.zs.baja_blast": "MTN DEW Zero Sugar, Flavor Name"
       },
       {
-            "mtndew.zs.baja_blast": "MTN DEW Lineup, Flavor Name"
+            "mtndew.zs.major_melon": "MTN DEW Zero Sugar, Flavor Name"
       },
       {
-            "mtndew.zs.major_melon": "MTN DEW Lineup, Flavor Name"
+            "mtndew.zs.frost_bite": "MTN DEW Zero Sugar, Flavor Name"
       },
       {
-            "mtndew.zs.frost_bite": "MTN DEW Lineup, Flavor Name"
+            "mtndew.zs.berry_monsoon": "MTN DEW Zero Sugar, Flavor Name"
       },
       {
-            "mtndew.zs.berry_monsoon": "MTN DEW Lineup, Flavor Name"
+            "mtndew.zs.spark": "MTN DEW Zero Sugar, Flavor Name"
       },
       {
-            "mtndew.zs.spark": "MTN DEW Lineup, Flavor Name"
+            "mtndew.zs.code_red": "MTN DEW Zero Sugar, Flavor Name"
       },
       {
-            "mtndew.zs.code_red": "MTN DEW Lineup, Flavor Name"
+            "mtndew.zs.voodew_2022": "MTN DEW Zero Sugar, Flavor Name"
       },
       {
-            "mtndew.zs.voodew_2022": "MTN DEW Lineup, Flavor Name"
+            "mtndew.freeze.og": "MTN DEW Freeze, Flavor Name"
       },
       {
-            "mtndew.freeze.og": "MTN DEW Lineup, Flavor Name"
+            "mtndew.freeze.code_red": "MTN DEW Freeze, Flavor Name"
       },
       {
-            "mtndew.freeze.code_red": "MTN DEW Lineup, Flavor Name"
+            "mtndew.freeze.white_out": "MTN DEW Freeze, Flavor Name"
       },
       {
-            "mtndew.freeze.white_out": "MTN DEW Lineup, Flavor Name"
+            "mtndew.freeze.major_melon": "MTN DEW Freeze, Flavor Name"
       },
       {
-            "mtndew.freeze.major_melon": "MTN DEW Lineup, Flavor Name"
+            "mtndew.freeze.electric_charge": "MTN DEW Freeze, Flavor Name"
       },
       {
-            "mtndew.freeze.electric_charge": "MTN DEW Lineup, Flavor Name"
+            "mtndew.freeze.merry_mashup": "MTN DEW Freeze, Flavor Name"
       },
       {
-            "mtndew.freeze.merry_mashup": "MTN DEW Lineup, Flavor Name"
+            "mtndew.freeze.thin_ice": "MTN DEW Freeze, Flavor Name"
       },
       {
-            "mtndew.freeze.thin_ice": "MTN DEW Lineup, Flavor Name"
+            "mtndew.freeze.solar_flare": "MTN DEW Freeze, Flavor Name"
       },
       {
-            "mtndew.freeze.solar_flare": "MTN DEW Lineup, Flavor Name"
+            "mtndew.freeze.blue_shock": "MTN DEW Freeze, Flavor Name"
       },
       {
-            "mtndew.freeze.blue_shock": "MTN DEW Lineup, Flavor Name"
+            "mtndew.amp.og": "MTN DEW Amp, Flavor Name"
       },
       {
-            "mtndew.amp.og": "MTN DEW Lineup, Flavor Name"
+            "mtndew.amp.cherry_blast": "MTN DEW Amp, Flavor Name"
       },
       {
-            "mtndew.amp.cherry_blast": "MTN DEW Lineup, Flavor Name"
+            "mtndew.amp.strawberry_limeade": "MTN DEW Amp, Flavor Name"
       },
       {
-            "mtndew.amp.strawberry_limeade": "MTN DEW Lineup, Flavor Name"
+            "mtndew.amp.tropical_punch": "MTN DEW Amp, Flavor Name"
       },
       {
-            "mtndew.amp.tropical_punch": "MTN DEW Lineup, Flavor Name"
+            "mtndew.gf.arctic_burst": "MTN DEW Game Fuel, Flavor Name"
       },
       {
-            "mtndew.gf.arctic_burst": "MTN DEW Lineup, Flavor Name"
+            "mtndew.gf.berry_lime": "MTN DEW Game Fuel, Flavor Name"
       },
       {
-            "mtndew.gf.berry_lime": "MTN DEW Lineup, Flavor Name"
+            "mtndew.gf.citrus_cherry": "MTN DEW Game Fuel, Flavor Name"
       },
       {
-            "mtndew.gf.citrus_cherry": "MTN DEW Lineup, Flavor Name"
+            "mtndew.gf.electrifying_berry": "MTN DEW Game Fuel, Flavor Name"
       },
       {
-            "mtndew.gf.electrifying_berry": "MTN DEW Lineup, Flavor Name"
+            "mtndew.gf.lemonade": "MTN DEW Game Fuel, Flavor Name"
       },
       {
-            "mtndew.gf.lemonade": "MTN DEW Lineup, Flavor Name"
+            "mtndew.gf.mango_heat": "MTN DEW Game Fuel, Flavor Name"
       },
       {
-            "mtndew.gf.mango_heat": "MTN DEW Lineup, Flavor Name"
+            "mtndew.gf.tropical": "MTN DEW Game Fuel, Flavor Name"
       },
       {
-            "mtndew.gf.tropical": "MTN DEW Lineup, Flavor Name"
+            "mtndew.gf.tropical_smash": "MTN DEW Game Fuel, Flavor Name"
       },
       {
-            "mtndew.gf.tropical_smash": "MTN DEW Lineup, Flavor Name"
+            "mtndew.gf.wild_fruit": "MTN DEW Game Fuel, Flavor Name"
       },
       {
-            "mtndew.gf.wild_fruit": "MTN DEW Lineup, Flavor Name"
+            "mtndew.agf.berry_blast": "MTN DEW (Amp) Game Fuel, Flavor Name"
       },
       {
-            "mtndew.agf.berry_blast": "MTN DEW Lineup, Flavor Name"
+            "mtndew.agf.cherry_burst": "MTN DEW (Amp) Game Fuel, Flavor Name"
       },
       {
-            "mtndew.agf.cherry_burst": "MTN DEW Lineup, Flavor Name"
+            "mtndew.agf.courageous_sherbet": "MTN DEW (Amp) Game Fuel, Flavor Name"
       },
       {
-            "mtndew.agf.courageous_sherbet": "MTN DEW Lineup, Flavor Name"
+            "mtndew.agf.orange_storm": "MTN DEW (Amp) Game Fuel, Flavor Name"
       },
       {
-            "mtndew.agf.orange_storm": "MTN DEW Lineup, Flavor Name"
+            "mtndew.agf.og": "MTN DEW (Amp) Game Fuel, Flavor Name"
       },
       {
-            "mtndew.agf.og": "MTN DEW Lineup, Flavor Name"
+            "mtndew.agf.tropical_strike": "MTN DEW (Amp) Game Fuel, Flavor Name"
       },
       {
-            "mtndew.agf.tropical_smash": "MTN DEW Lineup, Flavor Name"
+            "mtndew.agfzs.courageous_sherbet": "MTN DEW (Amp) Game Fuel Zero Sugar, Flavor Name"
       },
       {
-            "mtndew.agfzs.courageous_sherbet": "MTN DEW Lineup, Flavor Name"
+            "mtndew.agfzs.raspberry_lemonade": "MTN DEW (Amp) Game Fuel Zero Sugar, Flavor Name"
       },
       {
-            "mtndew.agfzs.raspberry_lemonade": "MTN DEW Lineup, Flavor Name"
+            "mtndew.agfzs.watermelon_shock": "MTN DEW (Amp) Game Fuel Zero Sugar, Flavor Name"
       },
       {
-            "mtndew.agfzs.watermelon_shock": "MTN DEW Lineup, Flavor Name"
+            "mtndew.spiked.lemonade": "MTN DEW Spiked, Flavor Name"
       },
       {
-            "mtndew.spiked.lemonade": "MTN DEW Lineup, Flavor Name"
+            "mtndew.spiked.raspberry_lemonade": "MTN DEW Spiked, Flavor Name"
       },
       {
-            "mtndew.spiked.raspberry_lemonade": "MTN DEW Lineup, Flavor Name"
+            "mtndew.energy.berry_blitz": "MTN DEW Energy/Rise, Flavor Name"
       },
       {
-            "mtndew.energy.berry_blitz": "MTN DEW Lineup, Flavor Name"
+            "mtndew.energy.cherry_lime_lift": "MTN DEW Energy/Rise, Flavor Name"
       },
       {
-            "mtndew.energy.cherry_lime_lift": "MTN DEW Lineup, Flavor Name"
+            "mtndew.energy.dragonfruit_charge": "MTN DEW Energy/Rise, Flavor Name"
       },
       {
-            "mtndew.energy.dragonfruit_charge": "MTN DEW Lineup, Flavor Name"
+            "mtndew.energy.orange_breeze": "MTN DEW Energy/Rise, Flavor Name"
       },
       {
-            "mtndew.energy.orange_breeze": "MTN DEW Lineup, Flavor Name"
+            "mtndew.energy.pomegranate_blue_burst": "MTN DEW Energy/Rise, Flavor Name"
       },
       {
-            "mtndew.energy.pomegranate_blue_burst": "MTN DEW Lineup, Flavor Name"
+            "mtndew.energy.peach_mango_dawn": "MTN DEW Energy/Rise, Flavor Name"
       },
       {
-            "mtndew.energy.peach_mango_dawn": "MTN DEW Lineup, Flavor Name"
+            "mtndew.energy.strawberry_melon_spark": "MTN DEW Energy/Rise, Flavor Name"
       },
       {
-            "mtndew.energy.strawberry_melon_spark": "MTN DEW Lineup, Flavor Name"
+            "mtndew.energy.tropical_sunrise": "MTN DEW Energy/Rise, Flavor Name"
       },
       {
-            "mtndew.energy.tropical_sunrise": "MTN DEW Lineup, Flavor Name"
+            "mtndew.ks.black_cherry": "MTN DEW Kickstart, Flavor Name"
       },
       {
-            "mtndew.ks.black_cherry": "MTN DEW Lineup, Flavor Name"
+            "mtndew.ks.blood_orange": "MTN DEW Kickstart, Flavor Name"
       },
       {
-            "mtndew.ks.blood_orange": "MTN DEW Lineup, Flavor Name"
+            "mtndew.ks.blueberry_pomegranate": "MTN DEW Kickstart, Flavor Name"
       },
       {
-            "mtndew.ks.blueberry_pomegranate": "MTN DEW Lineup, Flavor Name"
+            "mtndew.ks.fruit_punch": "MTN DEW Kickstart, Flavor Name"
       },
       {
-            "mtndew.ks.fruit_punch": "MTN DEW Lineup, Flavor Name"
+            "mtndew.ks.grape": "MTN DEW Kickstart, Flavor Name"
       },
       {
-            "mtndew.ks.grape": "MTN DEW Lineup, Flavor Name"
+            "mtndew.ks.limeade": "MTN DEW Kickstart, Flavor Name"
       },
       {
-            "mtndew.ks.limeade": "MTN DEW Lineup, Flavor Name"
+            "mtndew.ks.mango_lime": "MTN DEW Kickstart, Flavor Name"
       },
       {
-            "mtndew.ks.mango_lime": "MTN DEW Lineup, Flavor Name"
+            "mtndew.ks.og": "MTN DEW Kickstart, Flavor Name"
       },
       {
-            "mtndew.ks.og": "MTN DEW Lineup, Flavor Name"
+            "mtndew.ks.orange_citrus": "MTN DEW Kickstart, Flavor Name"
       },
       {
-            "mtndew.ks.orange_citrus": "MTN DEW Lineup, Flavor Name"
+            "mtndew.ks.orange_cranberry": "MTN DEW Kickstart, Flavor Name"
       },
       {
-            "mtndew.ks.orange_cranberry": "MTN DEW Lineup, Flavor Name"
+            "mtndew.ks.pineapple_orange_mango": "MTN DEW Kickstart, Flavor Name"
       },
       {
-            "mtndew.ks.pineapple_orange_mango": "MTN DEW Lineup, Flavor Name"
+            "mtndew.ks.raspberry_citrus": "MTN DEW Kickstart, Flavor Name"
       },
       {
-            "mtndew.ks.raspberry_citrus": "MTN DEW Lineup, Flavor Name"
+            "mtndew.ks.strawberry_kiwi": "MTN DEW Kickstart, Flavor Name"
       },
       {
-            "mtndew.ks.strawberry_kiwi": "MTN DEW Lineup, Flavor Name"
+            "mtndew.ks.ultra_og": "MTN DEW Kickstart, Flavor Name"
       },
       {
-            "mtndew.ks.ultra_og": "MTN DEW Lineup, Flavor Name"
+            "mtndew.ks.watermelon": "MTN DEW Kickstart, Flavor Name"
       },
       {
-            "mtndew.ks.watermelon": "MTN DEW Lineup, Flavor Name"
+            "mtndew.hard.og": "MTN DEW Hard, Flavor Name"
       },
       {
-            "mtndew.hard.og": "MTN DEW Lineup, Flavor Name"
+            "mtndew.hard.black_cherry": "MTN DEW Hard, Flavor Name"
       },
       {
-            "mtndew.hard.black_cherry": "MTN DEW Lineup, Flavor Name"
+            "mtndew.hard.watermelon": "MTN DEW Hard, Flavor Name"
       },
       {
-            "mtndew.hard.watermelon": "MTN DEW Lineup, Flavor Name"
+            "mtndew.hard.baja_blast": "MTN DEW Hard, Flavor Name"
       },
       {
-            "mtndew.hard.baja_blast": "MTN DEW Lineup, Flavor Name"
+            "mtndew.og": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.og": "MTN DEW Lineup, Flavor Name"
+            "mtndew.caffeine_free": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.caffeine_free": "MTN DEW Lineup, Flavor Name"
+            "mtndew.pitch_black": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.pitch_black": "MTN DEW Lineup, Flavor Name"
+            "mtndew.voltage": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.voltage": "MTN DEW Lineup, Flavor Name"
+            "mtndew.am": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.am": "MTN DEW Lineup, Flavor Name"
+            "mtndew.atomic_blue": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.atomic_blue": "MTN DEW Lineup, Flavor Name"
+            "mtndew.baja_blast": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.baja_blast": "MTN DEW Lineup, Flavor Name"
+            "mtndew.baja_flash": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.baja_flash": "MTN DEW Lineup, Flavor Name"
+            "mtndew.baja_punch": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.baja_punch": "MTN DEW Lineup, Flavor Name"
+            "mtndew.baja_gold": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.baja_gold": "MTN DEW Lineup, Flavor Name"
+            "mtndew.baja_mango_gem": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.baja_mango_gem": "MTN DEW Lineup, Flavor Name"
+            "mtndew.berry_monsoon": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.berry_monsoon": "MTN DEW Lineup, Flavor Name"
+            "mtndew.black_label": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.black_label": "MTN DEW Lineup, Flavor Name"
+            "mtndew.blue_shock_freeze": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.blue_shock_freeze": "MTN DEW Lineup, Flavor Name"
+            "mtndew.cake_smash": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.cake_smash": "MTN DEW Lineup, Flavor Name"
+            "mtndew.citrus_cherry": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.citrus_cherry": "MTN DEW Lineup, Flavor Name"
+            "mtndew.code_red": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.code_red": "MTN DEW Lineup, Flavor Name"
+            "mtndew.cyclone": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.cyclone": "MTN DEW Lineup, Flavor Name"
+            "mtndew.dark_berry": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.dark_berry": "MTN DEW Lineup, Flavor Name"
+            "mtndew.dark_berry_bash": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.dark_berry_bash": "MTN DEW Lineup, Flavor Name"
+            "mtndew.dewsa": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.dewsa": "MTN DEW Lineup, Flavor Name"
+            "mtndew.dewshine": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.dewshine": "MTN DEW Lineup, Flavor Name"
+            "mtndew.distortion": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.distortion": "MTN DEW Lineup, Flavor Name"
+            "mtndew.electric_apple": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.electric_apple": "MTN DEW Lineup, Flavor Name"
+            "mtndew.flamin_hot": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.flamin_hot": "MTN DEW Lineup, Flavor Name"
+            "mtndew.frost_bite": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.frost_bite": "MTN DEW Lineup, Flavor Name"
+            "mtndew.gingerbread_snapd": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.gingerbread_snapd": "MTN DEW Lineup, Flavor Name"
+            "mtndew.goji_citrus_strawberry": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.goji_citrus_strawberry": "MTN DEW Lineup, Flavor Name"
+            "mtndew.green_label": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.green_label": "MTN DEW Lineup, Flavor Name"
+            "mtndew.happy_dew_year": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.happy_dew_year": "MTN DEW Lineup, Flavor Name"
+            "mtndew.holiday_brew": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.holiday_brew": "MTN DEW Lineup, Flavor Name"
+            "mtndew.ice": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.ice": "MTN DEW Lineup, Flavor Name"
+            "mtndew.ice_cherry": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.ice_cherry": "MTN DEW Lineup, Flavor Name"
+            "mtndew.johnson_city_gold": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.johnson_city_gold": "MTN DEW Lineup, Flavor Name"
+            "mtndew.liberty_brew": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.liberty_brew": "MTN DEW Lineup, Flavor Name"
+            "mtndew.livewire": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.livewire": "MTN DEW Lineup, Flavor Name"
+            "mtndew.major_melon": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.major_melon": "MTN DEW Lineup, Flavor Name"
+            "mtndew.maui_burst": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.maui_burst": "MTN DEW Lineup, Flavor Name"
+            "mtndew.merry_mashup": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.merry_mashup": "MTN DEW Lineup, Flavor Name"
+            "mtndew.purple_thunder": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.purple_thunder": "MTN DEW Lineup, Flavor Name"
+            "mtndew.real_sugar": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.real_sugar": "MTN DEW Lineup, Flavor Name"
+            "mtndew.sangrita_blast": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.sangrita_blast": "MTN DEW Lineup, Flavor Name"
+            "mtndew.solar_flare": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.solar_flare": "MTN DEW Lineup, Flavor Name"
+            "mtndew.southern_shock": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.southern_shock": "MTN DEW Lineup, Flavor Name"
+            "mtndew.spark": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.spark": "MTN DEW Lineup, Flavor Name"
+            "mtndew.supernova": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.supernova": "MTN DEW Lineup, Flavor Name"
+            "mtndew.sweet_lightning": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.sweet_lightning": "MTN DEW Lineup, Flavor Name"
+            "mtndew.thrashed_apple": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.thrashed_apple": "MTN DEW Lineup, Flavor Name"
+            "mtndew.typhoon": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.typhoon": "MTN DEW Lineup, Flavor Name"
+            "mtndew.uproar": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.uproar": "MTN DEW Lineup, Flavor Name"
+            "mtndew.vibe": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.vibe": "MTN DEW Lineup, Flavor Name"
+            "mtndew.voodew_2019": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.voodew_2019": "MTN DEW Lineup, Flavor Name"
+            "mtndew.voodew_2020": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.voodew_2020": "MTN DEW Lineup, Flavor Name"
+            "mtndew.voodew_2021": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.voodew_2021": "MTN DEW Lineup, Flavor Name"
+            "mtndew.voodew_2022": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.voodew_2022": "MTN DEW Lineup, Flavor Name"
+            "mtndew.white_label": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.white_label": "MTN DEW Lineup, Flavor Name"
+            "mtndew.white_out": "MTN DEW, Flavor Name"
       },
       {
-            "mtndew.white_out": "MTN DEW Lineup, Flavor Name"
-      },
-      {
-            "mtndew.multipack": "MTN DEW Lineup, Flavor Name"
+            "mtndew.multipack": "MTN DEW, Flavor Name"
       },
   
   
@@ -401,25 +398,25 @@
   
   
       {
-            "mug.rs.root_beer": "MUG Lineup, Flavor Name"
+            "mug.rs.root_beer": "MUG Zero Sugar, Flavor Name"
       },
       {
-            "mug.root_beer": "MUG Lineup, Flavor Name"
+            "mug.root_beer": "MUG, Flavor Name"
       },
       {
-            "mug.cream_soda": "MUG Lineup, Flavor Name"
+            "mug.cream_soda": "MUG, Flavor Name"
       },
       {
-            "mug.diet.root_beer": "MUG Lineup, Flavor Name"
+            "mug.diet.root_beer": "MUG Diet, Flavor Name"
       },
       {
-            "mug.diet.cream_soda": "MUG Lineup, Flavor Name"
+            "mug.diet.cream_soda": "MUG Diet, Flavor Name"
       },
       {
-            "mug.zs.root_beer": "MUG Lineup, Flavor Name"
+            "mug.zs.root_beer": "MUG Zero Sugar, Flavor Name"
       },
       {
-            "mug.multipack": "MUG Lineup, Flavor Name"
+            "mug.multipack": "MUG, Flavor Name"
       },
    
   
@@ -427,82 +424,82 @@
   
       
       {
-            "bubly.blackberry": "BUBLY Lineup, Flavor Name"
+            "bubly.blackberry": "BUBLY, Flavor Name"
       },
       {
-            "bubly.lime": "BUBLY Lineup, Flavor Name"
+            "bubly.lime": "BUBLY, Flavor Name"
       },
       {
-            "bubly.cherry": "BUBLY Lineup, Flavor Name"
+            "bubly.cherry": "BUBLY, Flavor Name"
       },
       {
-            "bubly.grapefruit": "BUBLY Lineup, Flavor Name"
+            "bubly.grapefruit": "BUBLY, Flavor Name"
       },
       {
-            "bubly.strawberry": "BUBLY Lineup, Flavor Name"
+            "bubly.strawberry": "BUBLY, Flavor Name"
       },
       {
-            "bubly.raspberry": "BUBLY Lineup, Flavor Name"
+            "bubly.raspberry": "BUBLY, Flavor Name"
       },
       {
-            "bubly.mango": "BUBLY Lineup, Flavor Name"
+            "bubly.mango": "BUBLY, Flavor Name"
       },
       {
-            "bubly.peach": "BUBLY Lineup, Flavor Name"
+            "bubly.peach": "BUBLY, Flavor Name"
       },
       {
-            "bubly.orange": "BUBLY Lineup, Flavor Name"
+            "bubly.orange": "BUBLY, Flavor Name"
       },
       {
-            "bubly.watermelon": "BUBLY Lineup, Flavor Name"
+            "bubly.watermelon": "BUBLY, Flavor Name"
       },
       {
-            "bubly.pineapple": "BUBLY Lineup, Flavor Name"
+            "bubly.pineapple": "BUBLY, Flavor Name"
       },
       {
-            "bubly.lemon": "BUBLY Lineup, Flavor Name"
+            "bubly.lemon": "BUBLY, Flavor Name"
       },
       {
-            "bubly.banana": "BUBLY Lineup, Flavor Name"
+            "bubly.banana": "BUBLY, Flavor Name"
       },
       {
-            "bubly.passionfruit": "BUBLY Lineup, Flavor Name"
+            "bubly.passionfruit": "BUBLY, Flavor Name"
       },
       {
-            "bubly.blueberry_pomegranate": "BUBLY Lineup, Flavor Name"
+            "bubly.blueberry_pomegranate": "BUBLY, Flavor Name"
       },
       {
-            "bubly.cranberry": "BUBLY Lineup, Flavor Name"
+            "bubly.cranberry": "BUBLY, Flavor Name"
       },
       {
-            "bubly.apple": "BUBLY Lineup, Flavor Name"
+            "bubly.apple": "BUBLY, Flavor Name"
       },
       {
-            "bubly.coconut_pineapple": "BUBLY Lineup, Flavor Name"
+            "bubly.coconut_pineapple": "BUBLY, Flavor Name"
       },
       {
-            "bubly.white_peach_ginger": "BUBLY Lineup, Flavor Name"
+            "bubly.white_peach_ginger": "BUBLY, Flavor Name"
       },
       {
-            "bubly.bellini_bliss": "BUBLY Lineup, Flavor Name"
+            "bubly.bellini_bliss": "BUBLY, Flavor Name"
       },
       {
-            "bubly.bounce.mango_passionfruit": "BUBLY Lineup, Flavor Name"
+            "bubly.bounce.mango_passionfruit": "BUBLY Bounce, Flavor Name"
       },
       {
-            "bubly.bounce.triple_berry": "BUBLY Lineup, Flavor Name"
+            "bubly.bounce.triple_berry": "BUBLY Bounce, Flavor Name"
       },
       {
-            "bubly.bounce.blood_orange_grapefruit": "BUBLY Lineup, Flavor Name"
+            "bubly.bounce.blood_orange_grapefruit": "BUBLY Bounce, Flavor Name"
       },
       {
-            "bubly.bounce.citrus_cherry": "BUBLY Lineup, Flavor Name"
+            "bubly.bounce.citrus_cherry": "BUBLY Bounce, Flavor Name"
       },
       {
-            "bubly.bounce.blueberry_pomegranate": "BUBLY Lineup, Flavor Name"
+            "bubly.bounce.blueberry_pomegranate": "BUBLY Bounce, Flavor Name"
       },
       {
-            "bubly.multipack": "BUBLY Lineup, Flavor Name"
+            "bubly.multipack": "BUBLY, Flavor Name"
       },
       
       
@@ -510,136 +507,136 @@
   
       
       {
-            "pepsi.og": "PEPSI Lineup, Flavor Name"
+            "pepsi.og": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.diet.og": "PEPSI Lineup, Flavor Name"
+            "pepsi.diet.og": "PEPSI Diet, Flavor Name"
       },
       {
-            "pepsi.diet.caffeine_free": "PEPSI Lineup, Flavor Name"
+            "pepsi.diet.caffeine_free": "PEPSI Diet, Flavor Name"
       },
       {
-            "pepsi.diet.wild_cherry": "PEPSI Lineup, Flavor Name"
+            "pepsi.diet.wild_cherry": "PEPSI Diet, Flavor Name"
       },
       {
-            "pepsi.diet.cherry_vanilla": "PEPSI Lineup, Flavor Name"
+            "pepsi.diet.cherry_vanilla": "PEPSI Diet, Flavor Name"
       },
       {
-            "pepsi.diet.vanilla": "PEPSI Lineup, Flavor Name"
+            "pepsi.diet.vanilla": "PEPSI Diet, Flavor Name"
       },
       {
-            "pepsi.zs.og": "PEPSI Lineup, Flavor Name"
+            "pepsi.zs.og": "PEPSI Zero Sugar, Flavor Name"
       },
       {
-            "pepsi.zs.wild_cherry": "PEPSI Lineup, Flavor Name"
+            "pepsi.zs.wild_cherry": "PEPSI Zero Sugar, Flavor Name"
       },
       {
-            "pepsi.zs.vanilla": "PEPSI Lineup, Flavor Name"
+            "pepsi.zs.vanilla": "PEPSI Zero Sugar, Flavor Name"
       },
       {
-            "pepsi.zs.mango": "PEPSI Lineup, Flavor Name"
+            "pepsi.zs.mango": "PEPSI Zero Sugar, Flavor Name"
       },
       {
-            "pepsi.zs.crystal": "PEPSI Lineup, Flavor Name"
+            "pepsi.zs.crystal": "PEPSI Zero Sugar, Flavor Name"
       },
       {
-            "pepsi.next.og": "PEPSI Lineup, Flavor Name"
+            "pepsi.next.og": "PEPSI Next, Flavor Name"
       },
       {
-            "pepsi.next.cherry_vanilla": "PEPSI Lineup, Flavor Name"
+            "pepsi.next.cherry_vanilla": "PEPSI Next, Flavor Name"
       },
       {
-            "pepsi.next.paradise_mango": "PEPSI Lineup, Flavor Name"
+            "pepsi.next.paradise_mango": "PEPSI Next, Flavor Name"
       },
       {
-            "pepsi.true": "PEPSI Lineup, Flavor Name"
+            "pepsi.true": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.ss.cream_soda": "PEPSI Lineup, Flavor Name"
+            "pepsi.ss.cream_soda": "PEPSI Soda Shop, Flavor Name"
       },
       {
-            "pepsi.ss.black_cherry": "PEPSI Lineup, Flavor Name"
+            "pepsi.ss.black_cherry": "PEPSI Soda Shop, Flavor Name"
       },
       {
-            "pepsi.rs.og": "PEPSI Lineup, Flavor Name"
+            "pepsi.rs.og": "PEPSI Real Sugar, Flavor Name"
       },
       {
-            "pepsi.rs.vanilla": "PEPSI Lineup, Flavor Name"
+            "pepsi.rs.vanilla": "PEPSI Real Sugar, Flavor Name"
       },
       {
-            "pepsi.rs.wild_cherry": "PEPSI Lineup, Flavor Name"
+            "pepsi.rs.wild_cherry": "PEPSI Real Sugar, Flavor Name"
       },
       {
-            "pepsi.rs.cherry_vanilla": "PEPSI Lineup, Flavor Name"
+            "pepsi.rs.cherry_vanilla": "PEPSI Real Sugar, Flavor Name"
       },
       {
-            "pepsi.1893.original_cola": "PEPSI Lineup, Flavor Name"
+            "pepsi.1893.original_cola": "PEPSI 1893, Flavor Name"
       },
       {
-            "pepsi.1893.citrus_cola": "PEPSI Lineup, Flavor Name"
+            "pepsi.1893.citrus_cola": "PEPSI 1893, Flavor Name"
       },
       {
-            "pepsi.1893.ginger_cola": "PEPSI Lineup, Flavor Name"
+            "pepsi.1893.ginger_cola": "PEPSI 1893, Flavor Name"
       },
       {
-            "pepsi.1893.black_currant_cola": "PEPSI Lineup, Flavor Name"
+            "pepsi.1893.black_currant_cola": "PEPSI 1893, Flavor Name"
       },
       {
-            "pepsi.caffeine_free": "PEPSI Lineup, Flavor Name"
+            "pepsi.caffeine_free": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.wild_cherry": "PEPSI Lineup, Flavor Name"
+            "pepsi.wild_cherry": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.cherry_vanilla": "PEPSI Lineup, Flavor Name"
+            "pepsi.cherry_vanilla": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.vanilla": "PEPSI Lineup, Flavor Name"
+            "pepsi.vanilla": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.mango": "PEPSI Lineup, Flavor Name"
+            "pepsi.mango": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.lime": "PEPSI Lineup, Flavor Name"
+            "pepsi.lime": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.berry": "PEPSI Lineup, Flavor Name"
+            "pepsi.berry": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.pineapple": "PEPSI Lineup, Flavor Name"
+            "pepsi.pineapple": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.perfect": "PEPSI Lineup, Flavor Name"
+            "pepsi.perfect": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.blue": "PEPSI Lineup, Flavor Name"
+            "pepsi.blue": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.crystal": "PEPSI Lineup, Flavor Name"
+            "pepsi.crystal": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.fire": "PEPSI Lineup, Flavor Name"
+            "pepsi.fire": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.salted_caramel": "PEPSI Lineup, Flavor Name"
+            "pepsi.salted_caramel": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.apple_pie": "PEPSI Lineup, Flavor Name"
+            "pepsi.apple_pie": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.cocoa_cola": "PEPSI Lineup, Flavor Name"
+            "pepsi.cocoa_cola": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.peeps": "PEPSI Lineup, Flavor Name"
+            "pepsi.peeps": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.x": "PEPSI Lineup, Flavor Name"
+            "pepsi.x": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.cracker_jack": "PEPSI Lineup, Flavor Name"
+            "pepsi.cracker_jack": "PEPSI, Flavor Name"
       },
       {
-            "pepsi.multipack": "PEPSI Lineup, Flavor Name"
+            "pepsi.multipack": "PEPSI, Flavor Name"
       },
   
   
@@ -647,115 +644,115 @@
   
   
       {
-            "brisk.it.honey_ginseng": "BRISK Lineup, Flavor Name"
+            "brisk.it.honey_ginseng": "BRISK Iced Tea, Flavor Name"
       },
       {
-            "brisk.it.mango_fiesta": "BRISK Lineup, Flavor Name"
+            "brisk.it.mango_fiesta": "BRISK Iced Tea, Flavor Name"
       },
       {
-            "brisk.it.lemon": "BRISK Lineup, Flavor Name"
+            "brisk.it.lemon": "BRISK Iced Tea, Flavor Name"
       },
       {
-            "brisk.it.raspberry": "BRISK Lineup, Flavor Name"
+            "brisk.it.raspberry": "BRISK Iced Tea, Flavor Name"
       },
       {
-            "brisk.it.sweet": "BRISK Lineup, Flavor Name"
+            "brisk.it.sweet": "BRISK Iced Tea, Flavor Name"
       },
       {
-            "brisk.it.peach": "BRISK Lineup, Flavor Name"
+            "brisk.it.peach": "BRISK Iced Tea, Flavor Name"
       },
       {
-            "brisk.it.apple": "BRISK Lineup, Flavor Name"
+            "brisk.it.apple": "BRISK Iced Tea, Flavor Name"
       },
       {
-            "brisk.it.pineapple_passionfruit": "BRISK Lineup, Flavor Name"
+            "brisk.it.pineapple_passionfruit": "BRISK Iced Tea, Flavor Name"
       },
       {
-            "brisk.it.strawberry_melon": "BRISK Lineup, Flavor Name"
+            "brisk.it.strawberry_melon": "BRISK Iced Tea, Flavor Name"
       },
       {
-            "brisk.it.blackberry_smash": "BRISK Lineup, Flavor Name"
+            "brisk.it.blackberry_smash": "BRISK Iced Tea, Flavor Name"
       },
       {
-            "brisk.it.tropical_mango": "BRISK Lineup, Flavor Name"
+            "brisk.it.tropical_mango": "BRISK Iced Tea, Flavor Name"
       },
       {
-            "brisk.it.tropical_mango_goji_strawberry": "BRISK Lineup, Flavor Name"
+            "brisk.it.tropical_mango_goji_strawberry": "BRISK Iced Tea, Flavor Name"
       },
       {
-            "brisk.it.blood_orange": "BRISK Lineup, Flavor Name"
+            "brisk.it.blood_orange": "BRISK Iced Tea, Flavor Name"
       },
       {
-            "brisk.it.blood_orange_freeze": "BRISK Lineup, Flavor Name"
+            "brisk.it.blood_orange_freeze": "BRISK Iced Tea, Flavor Name"
       },
       {
-            "brisk.dit.lemon": "BRISK Lineup, Flavor Name"
+            "brisk.dit.lemon": "BRISK Diet Iced Tea, Flavor Name"
       },
       {
-            "brisk.zsit.lemon": "BRISK Lineup, Flavor Name"
+            "brisk.zsit.lemon": "BRISK Zero Sugar Iced Tea, Flavor Name"
       },
       {
-            "brisk.zsit.kiwi_strawberry": "BRISK Lineup, Flavor Name"
+            "brisk.zsit.kiwi_strawberry": "BRISK Zero Sugar Iced Tea, Flavor Name"
       },
       {
-            "brisk.ncit.green_juicy_peach": "BRISK Lineup, Flavor Name"
+            "brisk.ncit.green_juicy_peach": "BRISK No Calorie Iced Tea, Flavor Name"
       },
       {
-            "brisk.mate.mango": "BRISK Lineup, Flavor Name"
+            "brisk.mate.mango": "BRISK Mate/Energizing Iced Tea, Flavor Name"
       },
       {
-            "brisk.mate.dragonfruit": "BRISK Lineup, Flavor Name"
+            "brisk.mate.dragonfruit": "BRISK Mate/Energizing Iced Tea, Flavor Name"
       },
       {
-            "brisk.mate.cherry": "BRISK Lineup, Flavor Name"
+            "brisk.mate.cherry": "BRISK Mate/Energizing Iced Tea, Flavor Name"
       },
       {
-            "brisk.hh.tropical_lemonade": "BRISK Lineup, Flavor Name"
+            "brisk.hh.tropical_lemonade": "BRISK Half & Half, Flavor Name"
       },
       {
-            "brisk.hh.lemonade": "BRISK Lineup, Flavor Name"
+            "brisk.hh.lemonade": "BRISK Half & Half, Flavor Name"
       },
       {
-            "brisk.hh.cherry_limeade": "BRISK Lineup, Flavor Name"
+            "brisk.hh.cherry_limeade": "BRISK Half & Half, Flavor Name"
       },
       {
-            "brisk.hh.watermelon_lemonade": "BRISK Lineup, Flavor Name"
+            "brisk.hh.watermelon_lemonade": "BRISK Half & Half, Flavor Name"
       },
       {
-            "brisk.hh.blueberry_lemonade": "BRISK Lineup, Flavor Name"
+            "brisk.hh.blueberry_lemonade": "BRISK Half & Half, Flavor Name"
       },
       {
-            "brisk.fusion.lemonade": "BRISK Lineup, Flavor Name"
+            "brisk.fusion.lemonade": "BRISK Fusion, Flavor Name"
       },
       {
-            "brisk.df.guava_ginger_limeade": "BRISK Lineup, Flavor Name"
+            "brisk.df.guava_ginger_limeade": "BRISK Dual Force, Flavor Name"
       },
       {
-            "brisk.fruteria.watermelon": "BRISK Lineup, Flavor Name"
+            "brisk.fruteria.watermelon": "BRISK Fruteria, Flavor Name"
       },
       {
-            "brisk.fruteria.pineapple": "BRISK Lineup, Flavor Name"
+            "brisk.fruteria.pineapple": "BRISK Fruteria, Flavor Name"
       },
       {
-            "brisk.fruteria.mango": "BRISK Lineup, Flavor Name"
+            "brisk.fruteria.mango": "BRISK Fruteria, Flavor Name"
       },
       {
-            "brisk.jd.pink_lemonade": "BRISK Lineup, Flavor Name"
+            "brisk.jd.pink_lemonade": "BRISK Juice Drink, Flavor Name"
       },
       {
-            "brisk.jd.lemonade": "BRISK Lineup, Flavor Name"
+            "brisk.jd.lemonade": "BRISK Juice Drink, Flavor Name"
       },
       {
-            "brisk.jd.fruit_punch": "BRISK Lineup, Flavor Name"
+            "brisk.jd.fruit_punch": "BRISK Juice Drink, Flavor Name"
       },
       {
-            "brisk.jd.strawberry_melon": "BRISK Lineup, Flavor Name"
+            "brisk.jd.strawberry_melon": "BRISK Juice Drink, Flavor Name"
       },
       {
-            "brisk.green.apple": "BRISK Lineup, Flavor Name"
+            "brisk.green.apple": "BRISK Green, Flavor Name"
       },
       {
-            "brisk.multipack": "BRISK Lineup, Flavor Name"
+            "brisk.multipack": "BRISK, Flavor Name"
       },
   
   
@@ -763,103 +760,103 @@
   
   
       {
-            "pureleaf.thc.valencia_orange_peel": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.thc.valencia_orange_peel": "PURE LEAF Tea House Collection/Organic, Flavor Name"
       },
       {
-            "pureleaf.thc.wild_blackberry_sage": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.thc.wild_blackberry_sage": "PURE LEAF Tea House Collection/Organic, Flavor Name"
       },
       {
-            "pureleaf.thc.fuji_apple_ginger": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.thc.fuji_apple_ginger": "PURE LEAF Tea House Collection/Organic, Flavor Name"
       },
       {
-            "pureleaf.thc.sicilian_lemon_honeysuckle": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.thc.sicilian_lemon_honeysuckle": "PURE LEAF Tea House Collection/Organic, Flavor Name"
       },
       {
-            "pureleaf.thc.strawberry_garden_mint": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.thc.strawberry_garden_mint": "PURE LEAF Tea House Collection/Organic, Flavor Name"
       },
       {
-            "pureleaf.thc.spiced_chai": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.thc.spiced_chai": "PURE LEAF Tea House Collection/Organic, Flavor Name"
       },
       {
-            "pureleaf.thc.passionfruit_pineapple": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.thc.passionfruit_pineapple": "PURE LEAF Tea House Collection/Organic, Flavor Name"
       },
       {
-            "pureleaf.uns.black": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.uns.black": "PURE LEAF Unsweetened, Flavor Name"
       },
       {
-            "pureleaf.uns.lemon": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.uns.lemon": "PURE LEAF Unsweetened, Flavor Name"
       },
       {
-            "pureleaf.uns.green": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.uns.green": "PURE LEAF Unsweetened, Flavor Name"
       },
       {
-            "pureleaf.diet_lemon": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.diet_lemon": "PURE LEAF, Flavor Name"
       },
       {
-            "pureleaf.diet_peach": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.diet_peach": "PURE LEAF, Flavor Name"
       },
       {
-            "pureleaf.herbal.cherry_hibiscus": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.herbal.cherry_hibiscus": "PURE LEAF Herbal, Flavor Name"
       },
       {
-            "pureleaf.herbal.mango_hibiscus": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.herbal.mango_hibiscus": "PURE LEAF Herbal, Flavor Name"
       },
       {
-            "pureleaf.herbal.unsweetened_mango_hibiscus": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.herbal.unsweetened_mango_hibiscus": "PURE LEAF Herbal, Flavor Name"
       },
       {
-            "pureleaf.herbal.peach_hibiscus": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.herbal.peach_hibiscus": "PURE LEAF Herbal, Flavor Name"
       },
       {
-            "pureleaf.herbal.raspberry_chamomile": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.herbal.raspberry_chamomile": "PURE LEAF Herbal, Flavor Name"
       },
       {
-            "pureleaf.cbt.unsweetened_black": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.cbt.unsweetened_black": "PURE LEAF Cold Brew Tea, Flavor Name"
       },
       {
-            "pureleaf.cbt.black_tropical_mango": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.cbt.black_tropical_mango": "PURE LEAF Cold Brew Tea, Flavor Name"
       },
       {
-            "pureleaf.ss.tea": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.ss.tea": "PURE LEAF Subtly Sweet, Flavor Name"
       },
       {
-            "pureleaf.ss.lemon": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.ss.lemon": "PURE LEAF Subtly Sweet, Flavor Name"
       },
       {
-            "pureleaf.peach": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.peach": "PURE LEAF, Flavor Name"
       },
       {
-            "pureleaf.green": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.green": "PURE LEAF, Flavor Name"
       },
       {
-            "pureleaf.passionfruit_green": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.passionfruit_green": "PURE LEAF, Flavor Name"
       },
       {
-            "pureleaf.honey_green": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.honey_green": "PURE LEAF, Flavor Name"
       },
       {
-            "pureleaf.lemonade": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.lemonade": "PURE LEAF, Flavor Name"
       },
       {
-            "pureleaf.sweet": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.sweet": "PURE LEAF, Flavor Name"
       },
       {
-            "pureleaf.extra_sweet": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.extra_sweet": "PURE LEAF, Flavor Name"
       },
       {
-            "pureleaf.pomegranate": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.pomegranate": "PURE LEAF, Flavor Name"
       },
       {
-            "pureleaf.mint": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.mint": "PURE LEAF, Flavor Name"
       },
       {
-            "pureleaf.lemon": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.lemon": "PURE LEAF, Flavor Name"
       },
       {
-            "pureleaf.raspberry": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.raspberry": "PURE LEAF, Flavor Name"
       },
       {
-            "pureleaf.multipack": "PURE LEAF Lineup, Flavor Name"
+            "pureleaf.multipack": "PURE LEAF, Flavor Name"
       },
       
       
@@ -867,97 +864,97 @@
       
       
       {
-            "lipton.gt.citrus": "LIPTON Lineup, Flavor Name"
+            "lipton.gt.citrus": "LIPTON Green Tea, Flavor Name"
       },
       {
-            "lipton.gt.watermelon": "LIPTON Lineup, Flavor Name"
+            "lipton.gt.watermelon": "LIPTON Green Tea, Flavor Name"
       },
       {
-            "lipton.gt.white_peach": "LIPTON Lineup, Flavor Name"
+            "lipton.gt.white_peach": "LIPTON Green Tea, Flavor Name"
       },
       {
-            "lipton.dgt.citrus": "LIPTON Lineup, Flavor Name"
+            "lipton.dgt.citrus": "LIPTON Diet Green Tea, Flavor Name"
       },
       {
-            "lipton.dgt.mixed_berry": "LIPTON Lineup, Flavor Name"
+            "lipton.dgt.mixed_berry": "LIPTON Diet Green Tea, Flavor Name"
       },
       {
-            "lipton.sdgt.strawberry_kiwi": "LIPTON Lineup, Flavor Name"
+            "lipton.sdgt.strawberry_kiwi": "LIPTON Sparkling Diet Green Tea, Flavor Name"
       },
       {
-            "lipton.it.lemon": "LIPTON Lineup, Flavor Name"
+            "lipton.it.lemon": "LIPTON Iced Tea, Flavor Name"
       },
       {
-            "lipton.it.peach": "LIPTON Lineup, Flavor Name"
+            "lipton.it.peach": "LIPTON Iced Tea, Flavor Name"
       },
       {
-            "lipton.it.mango": "LIPTON Lineup, Flavor Name"
+            "lipton.it.mango": "LIPTON Iced Tea, Flavor Name"
       },
       {
-            "lipton.it.berry": "LIPTON Lineup, Flavor Name"
+            "lipton.it.berry": "LIPTON Iced Tea, Flavor Name"
       },
       {
-            "lipton.it.tropical": "LIPTON Lineup, Flavor Name"
+            "lipton.it.tropical": "LIPTON Iced Tea, Flavor Name"
       },
       {
-            "lipton.it.citrus": "LIPTON Lineup, Flavor Name"
+            "lipton.it.citrus": "LIPTON Iced Tea, Flavor Name"
       },
       {
-            "lipton.it.georgia_style_peach": "LIPTON Lineup, Flavor Name"
+            "lipton.it.georgia_style_peach": "LIPTON Iced Tea, Flavor Name"
       },
       {
-            "lipton.sit.lemonade": "LIPTON Lineup, Flavor Name"
+            "lipton.sit.lemonade": "LIPTON Sparkling Iced Tea, Flavor Name"
       },
       {
-            "lipton.sit.peach": "LIPTON Lineup, Flavor Name"
+            "lipton.sit.peach": "LIPTON Sparkling Iced Tea, Flavor Name"
       },
       {
-            "lipton.sit.raspberry": "LIPTON Lineup, Flavor Name"
+            "lipton.sit.raspberry": "LIPTON Sparkling Iced Tea, Flavor Name"
       },
       {
-            "lipton.sit.citrus_green": "LIPTON Lineup, Flavor Name"
+            "lipton.sit.citrus_green": "LIPTON Sparkling Iced Tea, Flavor Name"
       },   
       {
-            "lipton.hit.strawberry_mint": "LIPTON Lineup, Flavor Name"
+            "lipton.hit.strawberry_mint": "LIPTON Herbal Iced Tea, Flavor Name"
       },
       {
-            "lipton.hit.orange_blossom": "LIPTON Lineup, Flavor Name"
+            "lipton.hit.orange_blossom": "LIPTON Herbal Iced Tea, Flavor Name"
       },
       {
-            "lipton.dit.lemon": "LIPTON Lineup, Flavor Name"
+            "lipton.dit.lemon": "LIPTON Diet Iced Tea, Flavor Name"
       },
       {
-            "lipton.dit.peach": "LIPTON Lineup, Flavor Name"
+            "lipton.dit.peach": "LIPTON Diet Iced Tea, Flavor Name"
       },
       {
-            "lipton.itzs.lemon": "LIPTON Lineup, Flavor Name"
+            "lipton.itzs.lemon": "LIPTON Iced Tea Zero Sugar, Flavor Name"
       },
       {
-            "lipton.hh.iced_tea_lemonade": "LIPTON Lineup, Flavor Name"
+            "lipton.hh.iced_tea_lemonade": "LIPTON Half & Half, Flavor Name"
       },
       {
-            "lipton.igt.pear_peach": "LIPTON Lineup, Flavor Name"
+            "lipton.igt.pear_peach": "LIPTON Iced Green Tea, Flavor Name"
       },
       {
-            "lipton.wt.raspberry": "LIPTON Lineup, Flavor Name"
+            "lipton.wt.raspberry": "LIPTON White Tea, Flavor Name"
       },
       {
-            "lipton.dwt.raspberry": "LIPTON Lineup, Flavor Name"
+            "lipton.dwt.raspberry": "LIPTON Diet White Tea, Flavor Name"
       },
       {
-            "lipton.sweet_tea": "LIPTON Lineup, Flavor Name"
+            "lipton.sweet_tea": "LIPTON, Flavor Name"
       },
       {
-            "lipton.iced_sweet_tea": "LIPTON Lineup, Flavor Name"
+            "lipton.iced_sweet_tea": "LIPTON, Flavor Name"
       },
       {
-            "lipton.texas_sweet_tea": "LIPTON Lineup, Flavor Name"
+            "lipton.texas_sweet_tea": "LIPTON, Flavor Name"
       },
       {
-            "lipton.southern_sweet_tea": "LIPTON Lineup, Flavor Name"
+            "lipton.southern_sweet_tea": "LIPTON, Flavor Name"
       },
       {
-            "lipton.multipack": "LIPTON Lineup, Flavor Name"
+            "lipton.multipack": "LIPTON, Flavor Name"
       },
   
   
@@ -965,268 +962,268 @@
   
   
       {
-            "starbucks.fr.mocha": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.mocha": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.mocha_light": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.mocha_light": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.vanilla": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.vanilla": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.vanilla_light": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.vanilla_light": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.coffee": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.coffee": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.caramel": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.caramel": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.dark_chocolate_mocha": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.dark_chocolate_mocha": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.white_chocolate_mocha": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.white_chocolate_mocha": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.peppermint_mocha": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.peppermint_mocha": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.almondmilk_mocha": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.almondmilk_mocha": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.almondmilk_vanilla": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.almondmilk_vanilla": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.oatmilk_caramel_waffle_cookie": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.oatmilk_caramel_waffle_cookie": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.oatmilk_dark_chocolate_brownie": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.oatmilk_dark_chocolate_brownie": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.smores": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.smores": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.mocha_coconut": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.mocha_coconut": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.pumpkin_spice": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.pumpkin_spice": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.dulce_de_leche": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.dulce_de_leche": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.chocolate_churro": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.chocolate_churro": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.hazelnut_tiramisu": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.hazelnut_tiramisu": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.caramel_flan": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.caramel_flan": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.salted_dark_chocolate": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.salted_dark_chocolate": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.toasted_white_chocolate": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.toasted_white_chocolate": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.fr.brown_butter_caramel": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.fr.brown_butter_caramel": "STARBUCKS Frappuccino, Flavor Name"
       },
       {
-            "starbucks.ds_es.espresso_cream": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_es.espresso_cream": "STARBUCKS Doubleshot Espresso, Flavor Name"
       },
       {
-            "starbucks.ds_es.espresso_salted_caramel_cream": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_es.espresso_salted_caramel_cream": "STARBUCKS Doubleshot Espresso, Flavor Name"
       },
       {
-            "starbucks.ds_es.cubano": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_es.cubano": "STARBUCKS Doubleshot Espresso, Flavor Name"
       },
       {
-            "starbucks.ds_es.espresso_cream_light": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_es.espresso_cream_light": "STARBUCKS Doubleshot Espresso, Flavor Name"
       },
       {
-            "starbucks.ds_es.americano_black": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_es.americano_black": "STARBUCKS Doubleshot Espresso, Flavor Name"
       },
       {
-            "starbucks.ds_en.mocha": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_en.mocha": "STARBUCKS Doubleshot Energy, Flavor Name"
       },
       {
-            "starbucks.ds_en.coffee": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_en.coffee": "STARBUCKS Doubleshot Energy, Flavor Name"
       },
       {
-            "starbucks.ds_en.vanilla": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_en.vanilla": "STARBUCKS Doubleshot Energy, Flavor Name"
       },
       {
-            "starbucks.ds_en.vanilla_light": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_en.vanilla_light": "STARBUCKS Doubleshot Energy, Flavor Name"
       },
       {
-            "starbucks.ds_en.white_chocolate": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_en.white_chocolate": "STARBUCKS Doubleshot Energy, Flavor Name"
       },
       {
-            "starbucks.ds_en.hazelnut": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_en.hazelnut": "STARBUCKS Doubleshot Energy, Flavor Name"
       },
       {
-            "starbucks.ds_en.spiced_vanilla": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_en.spiced_vanilla": "STARBUCKS Doubleshot Energy, Flavor Name"
       },
       {
-            "starbucks.ds_en.mexican_mocha": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_en.mexican_mocha": "STARBUCKS Doubleshot Energy, Flavor Name"
       },
       {
-            "starbucks.ds_cp.vanilla_bean": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_cp.vanilla_bean": "STARBUCKS Doubleshot Coffee & Protein, Flavor Name"
       },
       {
-            "starbucks.ds_cp.dark_chocolate": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_cp.dark_chocolate": "STARBUCKS Doubleshot Coffee & Protein, Flavor Name"
       },
       {
-            "starbucks.ds_cp.coffee": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_cp.coffee": "STARBUCKS Doubleshot Coffee & Protein, Flavor Name"
       },
       {
-            "starbucks.ds_cp.caramel": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_cp.caramel": "STARBUCKS Doubleshot Coffee & Protein, Flavor Name"
       },
       {
-            "starbucks.ds_cs.vanilla_honey": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_cs.vanilla_honey": "STARBUCKS Doubleshot Coffee Smoothie, Flavor Name"
       },
       {
-            "starbucks.ds_cs.dark_chocolate": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ds_cs.dark_chocolate": "STARBUCKS Doubleshot Coffee Smoothie, Flavor Name"
       },
       {
-            "starbucks.ic.sweetened": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ic.sweetened": "STARBUCKS Iced Coffee, Flavor Name"
       },
       {
-            "starbucks.ic.light": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ic.light": "STARBUCKS Iced Coffee, Flavor Name"
       },
       {
-            "starbucks.ic.vanilla": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ic.vanilla": "STARBUCKS Iced Coffee, Flavor Name"
       },
       {
-            "starbucks.ic.caramel": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ic.caramel": "STARBUCKS Iced Coffee, Flavor Name"
       },
       {
-            "starbucks.ic.black_coffee": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ic.black_coffee": "STARBUCKS Iced Coffee, Flavor Name"
       },
       {
-            "starbucks.ie.salted_caramel_mocha": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ie.salted_caramel_mocha": "STARBUCKS Iced Espresso, Flavor Name"
       },
       {
-            "starbucks.ie.pumpkin_spice_latte": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ie.pumpkin_spice_latte": "STARBUCKS Iced Espresso, Flavor Name"
       },
       {
-            "starbucks.ie.peppermint_mocha": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ie.peppermint_mocha": "STARBUCKS Iced Espresso, Flavor Name"
       },
       {
-            "starbucks.ie.white_chocolate_mocha": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ie.white_chocolate_mocha": "STARBUCKS Iced Espresso, Flavor Name"
       },
       {
-            "starbucks.ie.molten_chocolate_latte": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ie.molten_chocolate_latte": "STARBUCKS Iced Espresso, Flavor Name"
       },
       {
-            "starbucks.ie.smoked_butterscotch_latte": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ie.smoked_butterscotch_latte": "STARBUCKS Iced Espresso, Flavor Name"
       },
       {
-            "starbucks.ie.vanilla_latte": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ie.vanilla_latte": "STARBUCKS Iced Espresso, Flavor Name"
       },
       {
-            "starbucks.ie.caffe_latte": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ie.caffe_latte": "STARBUCKS Iced Espresso, Flavor Name"
       },
       {
-            "starbucks.ie.caramel_macchiato": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ie.caramel_macchiato": "STARBUCKS Iced Espresso, Flavor Name"
       },
       {
-            "starbucks.ref.blueberry_acai": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ref.blueberry_acai": "STARBUCKS Refreshers, Flavor Name"
       },
       {
-            "starbucks.ref.peach_passionfruit": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ref.peach_passionfruit": "STARBUCKS Refreshers, Flavor Name"
       },
       {
-            "starbucks.ref.black_cherry_limeade": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ref.black_cherry_limeade": "STARBUCKS Refreshers, Flavor Name"
       },
       {
-            "starbucks.ref.strawberry_lemonade": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ref.strawberry_lemonade": "STARBUCKS Refreshers, Flavor Name"
       },
       {
-            "starbucks.ref.raspberry_pomegranate": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ref.raspberry_pomegranate": "STARBUCKS Refreshers, Flavor Name"
       },
       {
-            "starbucks.cb.black_sweetened": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.cb.black_sweetened": "STARBUCKS Cold Brew, Flavor Name"
       },
       {
-            "starbucks.cb.black_unsweetened": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.cb.black_unsweetened": "STARBUCKS Cold Brew, Flavor Name"
       },
       {
-            "starbucks.cb.cocoa_honey_cream": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.cb.cocoa_honey_cream": "STARBUCKS Cold Brew, Flavor Name"
       },
       {
-            "starbucks.cb.vanilla_fig_cream": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.cb.vanilla_fig_cream": "STARBUCKS Cold Brew, Flavor Name"
       },
       {
-            "starbucks.cb.vanilla_sweet_cream": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.cb.vanilla_sweet_cream": "STARBUCKS Cold Brew, Flavor Name"
       },
       {
-            "starbucks.ncb.black": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ncb.black": "STARBUCKS Nitro Cold Brew, Flavor Name"
       },
       {
-            "starbucks.ncb.dark_caramel": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ncb.dark_caramel": "STARBUCKS Nitro Cold Brew, Flavor Name"
       },
       {
-            "starbucks.ncb.vanilla_sweet_cream": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ncb.vanilla_sweet_cream": "STARBUCKS Nitro Cold Brew, Flavor Name"
       },
       {
-            "starbucks.ncb.dark_cocoa_sweet_cream": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ncb.dark_cocoa_sweet_cream": "STARBUCKS Nitro Cold Brew, Flavor Name"
       },
       {
-            "starbucks.ncb.hazelnut": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.ncb.hazelnut": "STARBUCKS Nitro Cold Brew, Flavor Name"
       },
       {
-            "starbucks.tse.caffe_mocha": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.tse.caffe_mocha": "STARBUCKS Tripleshot Energy, Flavor Name"
       },
       {
-            "starbucks.tse.french_vanilla": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.tse.french_vanilla": "STARBUCKS Tripleshot Energy, Flavor Name"
       },
       {
-            "starbucks.tse.caramel": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.tse.caramel": "STARBUCKS Tripleshot Energy, Flavor Name"
       },
       {
-            "starbucks.tse.dark_roast": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.tse.dark_roast": "STARBUCKS Tripleshot Energy, Flavor Name"
       },
       {
-            "starbucks.tse.dark_chocolate": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.tse.dark_chocolate": "STARBUCKS Tripleshot Energy, Flavor Name"
       },
       {
-            "starbucks.tsezs.black": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.tsezs.black": "STARBUCKS Tripleshot Energy Zero Sugar, Flavor Name"
       },
       {
-            "starbucks.tsezs.caramel": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.tsezs.caramel": "STARBUCKS Tripleshot Energy Zero Sugar, Flavor Name"
       },
       {
-            "starbucks.tsezs.vanilla": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.tsezs.vanilla": "STARBUCKS Tripleshot Energy Zero Sugar, Flavor Name"
       },
       {
-            "starbucks.tsezs.milk_chocolate": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.tsezs.milk_chocolate": "STARBUCKS Tripleshot Energy Zero Sugar, Flavor Name"
       },
       {
-            "starbucks.cc.milk_vanilla": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.cc.milk_vanilla": "STARBUCKS Cold & Crafted, Flavor Name"
       },
       {
-            "starbucks.cc.milk_mocha": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.cc.milk_mocha": "STARBUCKS Cold & Crafted, Flavor Name"
       },
       {
-            "starbucks.cc.milk": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.cc.milk": "STARBUCKS Cold & Crafted, Flavor Name"
       },
       {
-            "starbucks.cc.sweetened_black": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.cc.sweetened_black": "STARBUCKS Cold & Crafted, Flavor Name"
       },
       {
-            "starbucks.baya.raspberry_lime": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.baya.raspberry_lime": "STARBUCKS Baya Energy, Flavor Name"
       },
       {
-            "starbucks.baya.mango_guava": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.baya.mango_guava": "STARBUCKS Baya Energy, Flavor Name"
       },
       {
-            "starbucks.baya.pineapple_passionfruit": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.baya.pineapple_passionfruit": "STARBUCKS Baya Energy, Flavor Name"
       },
       {
-            "starbucks.multipack": "STARBUCKS Lineup, Flavor Name"
+            "starbucks.multipack": "STARBUCKS, Flavor Name"
       },
   
   
@@ -1234,69 +1231,34 @@
   
   
       {
-            "sierramist.mt.lemon_lime": "SIERRA MIST Lineup, Flavor Name"
+            "sierramist.mt.lemon_lime": "MIST TWST, Flavor Name"
       },
       {
-            "sierramist.mt.cranberry": "SIERRA MIST Lineup, Flavor Name"
+            "sierramist.mt.cranberry": "MIST TWST, Flavor Name"
       },
       {
-            "sierramist.dmt.lemon_lime": "SIERRA MIST Lineup, Flavor Name"
+            "sierramist.dmt.lemon_lime": "MIST TWST Diet, Flavor Name"
       },
       {
-            "sierramist.dmt.cranberry": "SIERRA MIST Lineup, Flavor Name"
+            "sierramist.dmt.cranberry": "MIST TWST Diet, Flavor Name"
       },
       {
-            "sierramist.diet.lemon_lime": "SIERRA MIST Lineup, Flavor Name"
+            "sierramist.diet.lemon_lime": "SIERRA MIST Diet, Flavor Name"
       },
       {
-            "sierramist.diet.cranberry_splash": "SIERRA MIST Lineup, Flavor Name"
+            "sierramist.diet.cranberry_splash": "SIERRA MIST Diet, Flavor Name"
       },
       {
-            "sierramist.zs.lemon_lime": "SIERRA MIST Lineup, Flavor Name"
+            "sierramist.zs.lemon_lime": "SIERRA MIST Zero Sugar, Flavor Name"
       },
       {
-            "sierramist.lemon_lime": "SIERRA MIST Lineup, Flavor Name"
+            "sierramist.lemon_lime": "SIERRA MIST, Flavor Name"
       },
       {
-            "sierramist.cranberry_splash": "SIERRA MIST Lineup, Flavor Name"
+            "sierramist.cranberry_splash": "SIERRA MIST, Flavor Name"
       },
       {
-            "sierramist.multipack": "SIERRA MIST Lineup, Flavor Name"
-      },
-  
-  
-  
-  
-  
-      {
-            "dole.zs.lemonade": "DOLE Lineup, Flavor Name"
-      },
-      {
-            "dole.lemonade": "DOLE Lineup, Flavor Name"
-      },
-      {
-            "dole.strawberry_lemonade": "DOLE Lineup, Flavor Name"
-      },
-      {
-            "dole.orange": "DOLE Lineup, Flavor Name"
-      },
-      {
-            "dole.strawberry_kiwi": "DOLE Lineup, Flavor Name"
-      },
-      {
-            "dole.apple": "DOLE Lineup, Flavor Name"
-      },
-      {
-            "dole.fruit_punch": "DOLE Lineup, Flavor Name"
-      },
-      {
-            "dole.ruby_red_grapefruit": "DOLE Lineup, Flavor Name"
-      },
-      {
-            "dole.tropical_fruit_punch": "DOLE Lineup, Flavor Name"
-      },
-      {
-            "dole.pineapple_peach_mango": "DOLE Lineup, Flavor Name"
+            "sierramist.multipack": "SIERRA MIST, Flavor Name"
       },
   
   
@@ -1304,40 +1266,34 @@
   
   
       {
-            "tropicana.ts.orange": "TROPICANA Lineup, Flavor Name"
+            "dole.zs.lemonade": "DOLE Zero Sugar, Flavor Name"
       },
       {
-            "tropicana.tw.tropical_fruit_fury": "TROPICANA Lineup, Flavor Name"
+            "dole.lemonade": "DOLE, Flavor Name"
       },
       {
-            "tropicana.tw.blue_raspberry_rush": "TROPICANA Lineup, Flavor Name"
+            "dole.strawberry_lemonade": "DOLE, Flavor Name"
       },
       {
-            "tropicana.tw.cherry_berry_blast": "TROPICANA Lineup, Flavor Name"
+            "dole.orange": "DOLE, Flavor Name"
       },
       {
-            "tropicana.tw.orange_strawberry_banana_burst": "TROPICANA Lineup, Flavor Name"
+            "dole.strawberry_kiwi": "DOLE, Flavor Name"
       },
       {
-            "tropicana.tw.strawberry_kiwi_cyclone": "TROPICANA Lineup, Flavor Name"
+            "dole.apple": "DOLE, Flavor Name"
       },
       {
-            "tropicana.tw.pineapple_passionfruit_smash": "TROPICANA Lineup, Flavor Name"
+            "dole.fruit_punch": "DOLE, Flavor Name"
       },
       {
-            "tropicana.light_lemonade": "TROPICANA Lineup, Flavor Name"
+            "dole.ruby_red_grapefruit": "DOLE, Flavor Name"
       },
       {
-            "tropicana.lemonade": "TROPICANA Lineup, Flavor Name"
+            "dole.tropical_fruit_punch": "DOLE, Flavor Name"
       },
       {
-            "tropicana.pink_lemonade": "TROPICANA Lineup, Flavor Name"
-      },
-      {
-            "tropicana.fruit_punch": "TROPICANA Lineup, Flavor Name"
-      },
-      {
-            "tropicana.multipack": "TROPICANA Lineup, Flavor Name"
+            "dole.pineapple_peach_mango": "DOLE, Flavor Name"
       },
   
   
@@ -1345,72 +1301,40 @@
   
   
       {
-            "manzanitasol.apple": "MANZANITA SOL Lineup, Flavor Name"
+            "tropicana.ts.orange": "TROPICANA Twister Soda, Flavor Name"
       },
       {
-            "manzanitasol.pineapple_mango": "MANZANITA SOL Lineup, Flavor Name"
+            "tropicana.tw.tropical_fruit_fury": "TROPICANA Twister, Flavor Name"
       },
       {
-            "manzanitasol.green_apple": "MANZANITA SOL Lineup, Flavor Name"
+            "tropicana.tw.blue_raspberry_rush": "TROPICANA Twister, Flavor Name"
       },
       {
-            "manzanitasol.multipack": "MANZANITA SOL Lineup, Flavor Name"
-      },
-  
-  
-  
-  
-  
-      {
-            "aquafina.water": "AQUAFINA Lineup, Flavor Name"
+            "tropicana.tw.cherry_berry_blast": "TROPICANA Twister, Flavor Name"
       },
       {
-            "aquafina.fs.raspberry": "AQUAFINA Lineup, Flavor Name"
+            "tropicana.tw.orange_strawberry_banana_burst": "TROPICANA Twister, Flavor Name"
       },
       {
-            "aquafina.fs.wild_berry": "AQUAFINA Lineup, Flavor Name"
+            "tropicana.tw.strawberry_kiwi_cyclone": "TROPICANA Twister, Flavor Name"
       },
       {
-            "aquafina.fs.grape": "AQUAFINA Lineup, Flavor Name"
+            "tropicana.tw.pineapple_passionfruit_smash": "TROPICANA Twister, Flavor Name"
       },
       {
-            "aquafina.fs.strawberry_kiwi": "AQUAFINA Lineup, Flavor Name"
+            "tropicana.light_lemonade": "TROPICANA, Flavor Name"
       },
       {
-            "aquafina.fs.mixed_berry": "AQUAFINA Lineup, Flavor Name"
+            "tropicana.lemonade": "TROPICANA, Flavor Name"
       },
       {
-            "aquafina.fs.peach_mango": "AQUAFINA Lineup, Flavor Name"
+            "tropicana.pink_lemonade": "TROPICANA, Flavor Name"
       },
       {
-            "aquafina.sp.lemon_lime": "AQUAFINA Lineup, Flavor Name"
+            "tropicana.fruit_punch": "TROPICANA, Flavor Name"
       },
       {
-            "aquafina.sp.white_peach_apricot": "AQUAFINA Lineup, Flavor Name"
-      },
-      {
-            "aquafina.sp.mango_pineapple": "AQUAFINA Lineup, Flavor Name"
-      },
-      {
-            "aquafina.sp.orange_grapefruit": "AQUAFINA Lineup, Flavor Name"
-      },
-      {
-            "aquafina.sp.black_cherry_dragonfruit": "AQUAFINA Lineup, Flavor Name"
-      },
-      {
-            "aquafina.sp.lemon": "AQUAFINA Lineup, Flavor Name"
-      },
-      {
-            "aquafina.sp.lime": "AQUAFINA Lineup, Flavor Name"
-      },
-      {
-            "aquafina.sp.raspberry": "AQUAFINA Lineup, Flavor Name"
-      },
-      {
-            "aquafina.sp.strawberry": "AQUAFINA Lineup, Flavor Name"
-      },
-      {
-            "aquafina.multipack": "AQUAFINA Lineup, Flavor Name"
+            "tropicana.multipack": "TROPICANA, Flavor Name"
       },
   
   
@@ -1418,30 +1342,16 @@
   
   
       {
-            "calebskola.og": "CALEB'S KOLA Lineup, Flavor Name"
+            "manzanitasol.apple": "MANZANITA SOL, Flavor Name"
       },
       {
-            "calebskola.blueberry_spice": "CALEB'S KOLA Lineup, Flavor Name"
+            "manzanitasol.pineapple_mango": "MANZANITA SOL, Flavor Name"
       },
       {
-            "calebskola.multipack": "CALEB'S KOLA Lineup, Flavor Name"
-      },
-  
-  
-  
-  
-  
-      {
-            "oceanspray.orange": "OCEAN SPRAY Lineup, Flavor Name"
+            "manzanitasol.green_apple": "MANZANITA SOL, Flavor Name"
       },
       {
-            "oceanspray.apple": "OCEAN SPRAY Lineup, Flavor Name"
-      },
-      {
-            "oceanspray.strawberry_kiwi": "OCEAN SPRAY Lineup, Flavor Name"
-      },
-      {
-            "oceanspray.multipack": "OCEAN SPRAY Lineup, Flavor Name"
+            "manzanitasol.multipack": "MANZANITA SOL, Flavor Name"
       },
   
   
@@ -1449,10 +1359,55 @@
   
   
       {
-            "gatorade.frost.glacier_freeze": "GATORADE Lineup, Flavor Name"
+            "aquafina.water": "AQUAFINA, Flavor Name"
       },
       {
-            "gatorade.multipack": "GATORADE Lineup, Flavor Name"
+            "aquafina.fs.raspberry": "AQUAFINA Flavor Splash, Flavor Name"
+      },
+      {
+            "aquafina.fs.wild_berry": "AQUAFINA Flavor Splash, Flavor Name"
+      },
+      {
+            "aquafina.fs.grape": "AQUAFINA Flavor Splash, Flavor Name"
+      },
+      {
+            "aquafina.fs.strawberry_kiwi": "AQUAFINA Flavor Splash, Flavor Name"
+      },
+      {
+            "aquafina.fs.mixed_berry": "AQUAFINA Flavor Splash, Flavor Name"
+      },
+      {
+            "aquafina.fs.peach_mango": "AQUAFINA Flavor Splash, Flavor Name"
+      },
+      {
+            "aquafina.sp.lemon_lime": "AQUAFINA Sparkling, Flavor Name"
+      },
+      {
+            "aquafina.sp.white_peach_apricot": "AQUAFINA Sparkling, Flavor Name"
+      },
+      {
+            "aquafina.sp.mango_pineapple": "AQUAFINA Sparkling, Flavor Name"
+      },
+      {
+            "aquafina.sp.orange_grapefruit": "AQUAFINA Sparkling, Flavor Name"
+      },
+      {
+            "aquafina.sp.black_cherry_dragonfruit": "AQUAFINA Sparkling, Flavor Name"
+      },
+      {
+            "aquafina.sp.lemon": "AQUAFINA Sparkling, Flavor Name"
+      },
+      {
+            "aquafina.sp.lime": "AQUAFINA Sparkling, Flavor Name"
+      },
+      {
+            "aquafina.sp.raspberry": "AQUAFINA Sparkling, Flavor Name"
+      },
+      {
+            "aquafina.sp.strawberry": "AQUAFINA Sparkling, Flavor Name"
+      },
+      {
+            "aquafina.multipack": "AQUAFINA, Flavor Name"
       },
   
   
@@ -1460,67 +1415,109 @@
   
   
       {
-            "amp.og": "AMP Lineup, Flavor Name"
+            "calebskola.og": "CALEB'S KOLA, Flavor Name"
       },
       {
-            "amp.sf.og": "AMP Lineup, Flavor Name"
+            "calebskola.blueberry_spice": "CALEB'S KOLA, Flavor Name"
       },
       {
-            "amp.zero.blueberry_white_grape": "AMP Lineup, Flavor Name"
+            "calebskola.multipack": "CALEB'S KOLA, Flavor Name"
+      },
+  
+  
+  
+  
+  
+      {
+            "oceanspray.orange": "OCEAN SPRAY, Flavor Name"
       },
       {
-            "amp.zero.watermelon": "AMP Lineup, Flavor Name"
+            "oceanspray.apple": "OCEAN SPRAY, Flavor Name"
       },
       {
-            "amp.boosted.mandarin_orange": "AMP Lineup, Flavor Name"
+            "oceanspray.strawberry_kiwi": "OCEAN SPRAY, Flavor Name"
       },
       {
-            "amp.boosted.wild_berry_cherry": "AMP Lineup, Flavor Name"
+            "oceanspray.multipack": "OCEAN SPRAY, Flavor Name"
+      },
+  
+  
+  
+  
+  
+      {
+            "gatorade.frost.glacier_freeze": "GATORADE Frost, Flavor Name"
       },
       {
-            "amp.organic.grape": "AMP Lineup, Flavor Name"
+            "gatorade.multipack": "GATORADE, Flavor Name"
+      },
+  
+  
+  
+  
+  
+      {
+            "amp.og": "AMP, Flavor Name"
       },
       {
-            "amp.organic.tropical_burst": "AMP Lineup, Flavor Name"
+            "amp.sf.og": "AMP Sugar Free, Flavor Name"
       },
       {
-            "amp.organic.pineapple_coconut": "AMP Lineup, Flavor Name"
+            "amp.zero.blueberry_white_grape": "AMP Zero, Flavor Name"
       },
       {
-            "amp.organic.citrus": "AMP Lineup, Flavor Name"
+            "amp.zero.watermelon": "AMP Zero, Flavor Name"
       },
       {
-            "amp.organic.strawberry_blast": "AMP Lineup, Flavor Name"
+            "amp.boosted.mandarin_orange": "AMP Boosted, Flavor Name"
       },
       {
-            "amp.cherry_blast": "AMP Lineup, Flavor Name"
+            "amp.boosted.wild_berry_cherry": "AMP Boosted, Flavor Name"
       },
       {
-            "amp.strawberry_limeade": "AMP Lineup, Flavor Name"
+            "amp.organic.grape": "AMP Organic, Flavor Name"
       },
       {
-            "amp.tropical_punch": "AMP Lineup, Flavor Name"
+            "amp.organic.tropical_burst": "AMP Organic, Flavor Name"
       },
       {
-            "amp.passionfruit": "AMP Lineup, Flavor Name"
+            "amp.organic.pineapple_coconut": "AMP Organic, Flavor Name"
       },
       {
-            "amp.lemonade": "AMP Lineup, Flavor Name"
+            "amp.organic.citrus": "AMP Organic, Flavor Name"
       },
       {
-            "amp.mixed_berry": "AMP Lineup, Flavor Name"
+            "amp.organic.strawberry_blast": "AMP Organic, Flavor Name"
       },
       {
-            "amp.cherry": "AMP Lineup, Flavor Name"
+            "amp.cherry_blast": "AMP, Flavor Name"
       },
       {
-            "amp.grape": "AMP Lineup, Flavor Name"
+            "amp.strawberry_limeade": "AMP, Flavor Name"
       },
       {
-            "amp.orange": "AMP Lineup, Flavor Name"
+            "amp.tropical_punch": "AMP, Flavor Name"
       },
       {
-            "amp.multipack": "AMP Lineup, Flavor Name"
+            "amp.passionfruit": "AMP, Flavor Name"
+      },
+      {
+            "amp.lemonade": "AMP, Flavor Name"
+      },
+      {
+            "amp.mixed_berry": "AMP, Flavor Name"
+      },
+      {
+            "amp.cherry": "AMP, Flavor Name"
+      },
+      {
+            "amp.grape": "AMP, Flavor Name"
+      },
+      {
+            "amp.orange": "AMP, Flavor Name"
+      },
+      {
+            "amp.multipack": "AMP, Flavor Name"
       },
   
   
@@ -1536,57 +1533,19 @@
   
   
       {
-            "h2oh.og": "H2OH! Lineup, Flavor Name"
+            "h2oh.og": "H2OH!, Flavor Name"
       },
       {
-            "h2oh.berry": "H2OH! Lineup, Flavor Name"
+            "h2oh.berry": "H2OH!, Flavor Name"
       },
       {
-            "h2oh.lemon_lime": "H2OH! Lineup, Flavor Name"
+            "h2oh.lemon_lime": "H2OH!, Flavor Name"
       },
       {
-            "h2oh.orange": "H2OH! Lineup, Flavor Name"
+            "h2oh.orange": "H2OH!, Flavor Name"
       },
       {
-            "h2oh.multipack": "H2OH! Lineup, Flavor Name"
-      },
-  
-  
-  
-  
-  
-      {
-            "stubborn.zs.black_cherry_tarragon": "STUBBORN Lineup, Flavor Name"
-      },
-      {
-            "stubborn.zs.fraft_cola": "STUBBORN Lineup, Flavor Name"
-      },
-      {
-            "stubborn.black_cherry_tarragon": "STUBBORN Lineup, Flavor Name"
-      },
-      {
-            "stubborn.orange_hibiscus": "STUBBORN Lineup, Flavor Name"
-      },
-      {
-            "stubborn.lemon_berry_acai": "STUBBORN Lineup, Flavor Name"
-      },
-      {
-            "stubborn.classic_root_beer": "STUBBORN Lineup, Flavor Name"
-      },
-      {
-            "stubborn.agave_vanilla_cream_soda": "STUBBORN Lineup, Flavor Name"
-      },
-      {
-            "stubborn.pineapple_cream": "STUBBORN Lineup, Flavor Name"
-      },
-      {
-            "stubborn.draft_cola": "STUBBORN Lineup, Flavor Name"
-      },
-      {
-            "stubborn.citrus_hibiscus_orange": "STUBBORN Lineup, Flavor Name"
-      },
-      {
-            "stubborn.multipack": "STUBBORN Lineup, Flavor Name"
+            "h2oh.multipack": "H2OH!, Flavor Name"
       },
   
   
@@ -1594,44 +1553,37 @@
   
   
       {
-            "izze.fus.orange_mango": "IZZE Lineup, Flavor Name"
+            "stubborn.zs.black_cherry_tarragon": "STUBBORN Zero Sugar, Flavor Name"
       },
       {
-            "izze.fus.lemon_lime": "IZZE Lineup, Flavor Name"
+            "stubborn.zs.fraft_cola": "STUBBORN Zero Sugar, Flavor Name"
       },
       {
-            "izze.fus.strawberry_melon": "IZZE Lineup, Flavor Name"
+            "stubborn.black_cherry_tarragon": "STUBBORN, Flavor Name"
       },
       {
-            "izze.multipack": "IZZE Lineup, Flavor Name"
-      },
-  
-  
-  
-  
-  
-      {
-            "neonzebra.citrus": "NEON ZEBRA Lineup, Flavor Name"
+            "stubborn.orange_hibiscus": "STUBBORN, Flavor Name"
       },
       {
-            "neonzebra.lime_mint": "NEON ZEBRA Lineup, Flavor Name"
+            "stubborn.lemon_berry_acai": "STUBBORN, Flavor Name"
       },
       {
-            "neonzebra.strawberry_lime": "NEON ZEBRA Lineup, Flavor Name"
+            "stubborn.classic_root_beer": "STUBBORN, Flavor Name"
       },
       {
-            "neonzebra.lemon": "NEON ZEBRA Lineup, Flavor Name"
+            "stubborn.agave_vanilla_cream_soda": "STUBBORN, Flavor Name"
       },
       {
-            "neonzebra.multipack": "NEON ZEBRA Lineup, Flavor Name"
+            "stubborn.pineapple_cream": "STUBBORN, Flavor Name"
       },
-  
-  
-  
-  
-  
       {
-            "driftwell.blackberry_lavender": "DRIFTWELL Lineup, Flavor Name"
+            "stubborn.draft_cola": "STUBBORN, Flavor Name"
+      },
+      {
+            "stubborn.citrus_hibiscus_orange": "STUBBORN, Flavor Name"
+      },
+      {
+            "stubborn.multipack": "STUBBORN, Flavor Name"
       },
   
   
@@ -1639,22 +1591,67 @@
   
   
       {
-            "yachak.berry_red": "YACHAK Lineup, Flavor Name"
+            "izze.fus.orange_mango": "IZZE Fusions, Flavor Name"
       },
       {
-            "yachak.berry_blue": "YACHAK Lineup, Flavor Name"
+            "izze.fus.lemon_lime": "IZZE Fusions, Flavor Name"
       },
       {
-            "yachak.ultimate_mint": "YACHAK Lineup, Flavor Name"
+            "izze.fus.strawberry_melon": "IZZE Fusions, Flavor Name"
       },
       {
-            "yachak.passionfruit": "YACHAK Lineup, Flavor Name"
+            "izze.multipack": "IZZE, Flavor Name"
+      },
+  
+  
+  
+  
+  
+      {
+            "neonzebra.citrus": "NEON ZEBRA, Flavor Name"
       },
       {
-            "yachak.blackberry": "YACHAK Lineup, Flavor Name"
+            "neonzebra.lime_mint": "NEON ZEBRA, Flavor Name"
       },
       {
-            "yachak.multipack": "YACHAK Lineup, Flavor Name"
+            "neonzebra.strawberry_lime": "NEON ZEBRA, Flavor Name"
+      },
+      {
+            "neonzebra.lemon": "NEON ZEBRA, Flavor Name"
+      },
+      {
+            "neonzebra.multipack": "NEON ZEBRA, Flavor Name"
+      },
+  
+  
+  
+  
+  
+      {
+            "driftwell.blackberry_lavender": "DRIFTWELL, Flavor Name"
+      },
+  
+  
+  
+  
+  
+      {
+            "yachak.berry_red": "YACHAK, Flavor Name"
+      },
+      {
+            "yachak.berry_blue": "YACHAK, Flavor Name"
+      },
+      {
+            "yachak.ultimate_mint": "YACHAK, Flavor Name"
+      },
+      {
+            "yachak.passionfruit": "YACHAK, Flavor Name"
+      },
+      {
+            "yachak.blackberry": "YACHAK, Flavor Name"
+      },
+      {
+            "yachak.multipack": "YACHAK, Flavor Name"
       },
       
       
