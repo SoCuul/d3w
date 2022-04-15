@@ -37,6 +37,7 @@
     "mtndew.gf.tropical_smash",
     "mtndew.gf.wild_fruit",
     "mtndew.agf.berry_blast",
+    "mtndew.agf.championship_citrus_cherry",
     "mtndew.agf.cherry_burst",
     "mtndew.agf.courageous_sherbet",
     "mtndew.agf.orange_storm",
@@ -643,6 +644,15 @@
     "yachak.passionfruit",
     "yachak.blackberry",
     "yachak.multipack",
+    
+    
+    
+    
+    
+    "soulboost.lift.blueberry_pomegranate",
+    "soulboost.lift.black_cherry_citrus",
+    "soulboost.ease.strawberry_rose",
+    "soulboost.ease.blackberry_passionfruit",
     
     
     
