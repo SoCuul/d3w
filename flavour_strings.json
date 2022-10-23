@@ -13,6 +13,7 @@
     "mtndew.zs.spark",
     "mtndew.zs.code_red",
     "mtndew.zs.voodew_2022",
+    "mtndew.zs.voodew_2023",
     "mtndew.zs.pitch_black",
     "mtndew.freeze.og",
     "mtndew.freeze.code_red",
@@ -96,6 +97,7 @@
     "mtndew.blue_shock_freeze",
     "mtndew.cake_smash",
     "mtndew.citrus_cherry",
+    "mtndew.cobra_cane",
     "mtndew.code_red",
     "mtndew.cyclone",
     "mtndew.dark_berry",
@@ -106,6 +108,7 @@
     "mtndew.electric_apple",
     "mtndew.flamin_hot",
     "mtndew.frost_bite",
+    "mtndew.fruit_quake",
     "mtndew.gingerbread_snapd",
     "mtndew.goji_citrus_strawberry",
     "mtndew.green_label",
@@ -136,6 +139,7 @@
     "mtndew.voodew_2020",
     "mtndew.voodew_2021",
     "mtndew.voodew_2022",
+    "mtndew.voodew_2023",
     "mtndew.white_label",
     "mtndew.white_out",
     "mtndew.multipack",
@@ -1097,6 +1101,29 @@
     "doritos.roulette.nacho_cheese",
     "doritos.simply_organic.white_cheddar",
     "doritos.multipack",
+        
+    
+    
+    
+    "tostitos.og",
+    "tostitos.bite_size_rounds",
+    "tostitos.crispy_rounds",
+    "tostitos.habanero",
+    "tostitos.hearty_dippers",
+    "tostitos.hint_of_guacamole",
+    "tostitos.hint_of_lime",
+    "tostitos.hint_of_spicy_queso",
+    "tostitos.lightly_salted",
+    "tostitos.cantina.thin_crispy",
+    "tostitos.cantina.traditional",
+    "tostitos.salsa.chunky_medium",
+    "tostitos.salsa.chunky_mild",
+    "tostitos.salsa.chunky_habanero",
+    "tostitos.salsa.con_queso",
+    "tostitos.salsa.restaurant_style",
+    "tostitos.scoops",
+    "tostitos.scoops.baked",
+    "tostitos.scoops.multigrain",
         
     
     
