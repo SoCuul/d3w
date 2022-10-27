@@ -1061,11 +1061,47 @@
     "mirinda.orange",
     "mirinda.strawberry",
     "mirinda.multipack",
+      
+    
+    
+    
+    
+    "cheetos.baked.crunchy_cheese",
+    "cheetos.baked.flamin_hot",
+    "cheetos.baked.flamin_hot_limon",
+    "cheetos.bolitas",
+    "cheetos.crunch_pop_mix",
+    "cheetos.crunchy.cheddar_jalapeno",
+    "cheetos.crunchy.og",
+    "cheetos.crunchy.nashville_hot",
+    "cheetos.mexican_street_corn",
+    "cheetos.paws",
+    "cheetos.puffs.og",
+    "cheetos.twisted_puffs",
+    "cheetos.white_cheddar_bites",
+    "cheetos.fantastix.chili_cheese",
+    "cheetos.fantastix.flamin_hot",
+    "cheetos.flamin_hot.carolina_reaper",
+    "cheetos.flamin_hot.crunchy",
+    "cheetos.flamin_hot.crunchy_limon",
+    "cheetos.flamin_hot.xxtra_crunchy",
+    "cheetos.flavor_shots.cheddar_jalapeno",
+    "cheetos.flavor_shots.flamin_hot",
+    "cheetos.mac_n_cheese.bold_cheesy",
+    "cheetos.mac_n_cheese.cheddar_jalapeno",
+    "cheetos.mac_n_cheese.flamin_hot",
+    "cheetos.popcorn.cheddar",
+    "cheetos.simply.crunchy_white_cheddar",
+    "cheetos.simply.crunchy_white_cheddar_jalapeno",
+    "cheetos.simply.puffs_white_cheddar",
+    "cheetos.multipack",    
+    
     
     
     
     
     "crackerjack.og",
+    
     
     
     
@@ -1111,7 +1147,9 @@
     "doritos.simply_organic.white_cheddar",
     "doritos.simply_organic.spicy_white_cheddar",
     "doritos.multipack",
-        
+    
+    
+    
     
     
     "lays.adobadas",
@@ -1179,6 +1217,8 @@
     "lays.wavy.lightly_salted",
     "lays.wavy.og",
     "lays.wavy.sea_salt_pepper",
+    "lays.multipack",
+      
     
     
     
@@ -1201,6 +1241,7 @@
     "tostitos.salsa.restaurant_style",
     "tostitos.scoops",
     "tostitos.scoops.baked",
+    "tostitos.scoops.multigrain",
     "tostitos.scoops.multigrain",
         
     
