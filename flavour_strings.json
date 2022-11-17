@@ -11,6 +11,7 @@
     "mtndew.zs.frost_bite",
     "mtndew.zs.berry_monsoon",
     "mtndew.zs.spark",
+    "mtndew.zs.summer_freeze",
     "mtndew.zs.code_red",
     "mtndew.zs.voodew_2022",
     "mtndew.zs.voodew_2023",
@@ -59,6 +60,8 @@
     "mtndew.energy.tropical_sunrise",
     "mtndew.energy.baja_blast",
     "mtndew.energy.code_red",
+    "mtndew.energy.pitch_black",
+    "mtndew.energy.major_melon",
     "mtndew.ks.black_cherry",
     "mtndew.ks.blood_orange",
     "mtndew.ks.blueberry_pomegranate",
@@ -80,6 +83,10 @@
     "mtndew.hard.black_cherry",
     "mtndew.hard.watermelon",
     "mtndew.hard.baja_blast",
+    "mtndew.hard.baja_punch",
+    "mtndew.hard.baja_pineapple",
+    "mtndew.hard.baja_mango",
+    "mtndew.hard.livewire",
     "mtndew.og",
     "mtndew.caffeine_free",
     "mtndew.pitch_black",
@@ -130,6 +137,7 @@
     "mtndew.southern_shock",
     "mtndew.spark",
     "mtndew.supernova",
+    "mtndew.summer_freeze",
     "mtndew.sweet_lightning",
     "mtndew.thrashed_apple",
     "mtndew.typhoon",
@@ -170,9 +178,11 @@
     "bubly.mango",
     "bubly.peach",
     "bubly.orange",
+    "bubly.orange_cream",
     "bubly.watermelon",
     "bubly.pineapple",
     "bubly.lemon",
+    "bubly.lemon_sorbet",
     "bubly.banana",
     "bubly.passionfruit",
     "bubly.blueberry_pomegranate",
@@ -1175,6 +1185,12 @@
     "fritos.scoops.og",
     "fritos.scoops.spicy_jalapeno",
     "fritos.multipack",
+    
+    
+    
+    
+    "funyuns.og",
+    "funyuns.flamin_hot",
     
     
     
