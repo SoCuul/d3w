@@ -509,6 +509,7 @@
 
     "starry.lemon_lime",
     "starry.zs.lemon_lime",
+    "starry.multipack",
 
 
 
@@ -885,6 +886,7 @@
 
 
     "lifewtr",
+    "lifewtr.multipack",
 
 
 
@@ -1008,7 +1010,6 @@
     
     
     
-    
     "kevita.mbk.pineapple_peach",
     "kevita.mbk.blackberry_hops",
     "kevita.mbk.blueberry_basil",
@@ -1050,7 +1051,6 @@
     
     
     
-    
     "paso.grapefruit",
     "paso.pomelo",
     "paso.tonic",
@@ -1067,12 +1067,10 @@
     
     
     
-    
     "mirinda.orange",
     "mirinda.strawberry",
     "mirinda.multipack",
       
-    
     
     
     
@@ -1084,6 +1082,7 @@
     "cheetos.crunchy.cheddar_jalapeno",
     "cheetos.crunchy.og",
     "cheetos.crunchy.nashville_hot",
+    "cheetos.crunchy.salsa_con_queso",
     "cheetos.mexican_street_corn",
     "cheetos.paws",
     "cheetos.puffs.og",
@@ -1101,19 +1100,46 @@
     "cheetos.mac_n_cheese.bold_cheesy",
     "cheetos.mac_n_cheese.cheddar_jalapeno",
     "cheetos.mac_n_cheese.flamin_hot",
+    "cheetos.mac_n_cheetos.creamy_cheddar",
     "cheetos.popcorn.cheddar",
     "cheetos.simply.crunchy_white_cheddar",
     "cheetos.simply.crunchy_white_cheddar_jalapeno",
     "cheetos.simply.puffs_white_cheddar",
     "cheetos.snowflakes.white_cheddar",
-    "cheetos.multipack",    
+    "cheetos.multipack",
     
+    
+
+
+    "ruffles.cheddar_sour_cream",
+    "ruffles.sour_cream_onion",
+    "ruffles.smokehouse_style_barbecue",
+    "ruffles.beer_battered_onion_rings",
+    "ruffles.max.loaded_bacon_cheddar_potato_skins",
+    "ruffles.tapatio.limon",
+    "ruffles.multipack",
+
+
+
+
+    "missvickies.sea_salt",
+    "missvickies.smokehouse_bbq",
+    "missvickies.multipack",
+    
+    
+    
+    
+    "chesters.popcorn.cheddar",
+    "chesters.puffcorn.cheese",
+    "chesters.puffcorn.flamin_hot",
+    "chesters.puffcorn.butter",
+    "chesters.multipack",
     
     
     
     
     "crackerjack.og",
-    
+    "crackerjack.multipack",
     
     
     
@@ -1125,18 +1151,21 @@
     "doritos.classic_ketchup",
     "doritos.flamas",
     "doritos.nacho_cheese",
+    "doritos.spicy_nacho",
     "doritos.salsa_verde",
     "doritos.screamin_siracha",
     "doritos.spicy_mustard",
     "doritos.spicy_sweet_chili",
     "doritos.sweet_tangy_bbq",
     "doritos.taco",
+    "doritos.sour_cream_onion",
     "doritos.tangy_pickle",
     "doritos.tangy_tamarind",
     "doritos.tapatio",
     "doritos.toasted_corn",
     "doritos.ultimate_cheddar",
     "doritos.wasabi",
+    "doritos.jumpin_jack_cheese",
     "doritos.3d_crunch.chili_cheese_nacho",
     "doritos.3d_crunch.spicy_ranch",
     "doritos.3d_crunch.nacho_cheese",
@@ -1154,6 +1183,7 @@
     "doritos.jacked.enchilada_supreme",
     "doritos.jacked.ranch_dipped_hot_wings",
     "doritos.jacked.smoky_chipotle_bbq",
+    "doritos.roulette",
     "doritos.roulette.cool_ranch",
     "doritos.roulette.nacho_cheese",
     "doritos.simply_organic.white_cheddar",
@@ -1163,12 +1193,13 @@
     
     
     
-    
     "fritolay.french_onion_dip",
     "fritolay.sunflower_seeds.bbq",
     "fritolay.sunflower_seeds.flamin_hot_limon",
     "fritolay.sunflower_seeds.og",
     "fritolay.sunflower_seeds.ranch",
+    "fritolay.sunflower_seeds.flamas",
+    "fritolay.sunflower_seeds.dill_pickle",
     "fritolay.peanuts.salted_in_shell",
     
     
@@ -1193,10 +1224,11 @@
     
     "funyuns.og",
     "funyuns.flamin_hot",
+    "funyuns.multipack",
     
     
     
-    
+
     "lays.adobadas",
     "lays.barbecue",
     "lays.cheddar_jalapeno",
@@ -1241,6 +1273,7 @@
     "lays.poppables.southwest_ranch",
     "lays.poppables.white_cheddar",
     "lays.simply.sea_salted",
+    "lays.stax.hot_n_spicy_barbecue",
     "lays.stax.bacon_cheddar_potato_skins",
     "lays.stax.buffalo_wings_ranch",
     "lays.stax.cheddar",
@@ -1248,6 +1281,7 @@
     "lays.stax.flamas",
     "lays.stax.mesquite_barbecue",
     "lays.stax.og",
+    "lays.stax.pizza",
     "lays.stax.salt_vinegar",
     "lays.stax.sour_cream_onion",
     "lays.stax.xtra_flamin_hot",
@@ -1262,15 +1296,17 @@
     "lays.wavy.lightly_salted",
     "lays.wavy.og",
     "lays.wavy.sea_salt_pepper",
-    "lays.multipack",
-      
+    "lays.wavy.og_fs",
+    "lays.multipack",  
     
     
     
     
     "tostitos.og",
+    "tostitos.bite_size",
     "tostitos.bite_size_rounds",
     "tostitos.crispy_rounds",
+    "tostitos.crispy_rounds_fs",
     "tostitos.habanero",
     "tostitos.hearty_dippers",
     "tostitos.hint_of_guacamole",
@@ -1285,10 +1321,104 @@
     "tostitos.salsa.chunky_habanero",
     "tostitos.salsa.con_queso",
     "tostitos.salsa.restaurant_style",
+    "tostitos.zesty_taco_dip",
     "tostitos.scoops",
     "tostitos.scoops.baked",
     "tostitos.scoops.multigrain",
     "tostitos.scoops.multigrain",
+    "tostitos.multipack",
+
+
+
+
+    "sunchips.original",
+    "sunchips.french_onion",
+    "sunchips.multipack",
+
+
+
+
+    "roldgold.twists.original",
+    "roldgold.snowflakes.peppermint_dipped",
+    "roldgold.multipack",
+
+
+
+
+    "smartfood.popcorn.white_cheddar",
+    "smartfood.popcorn.sweet_salty_kettle_corn",
+    "smartfood.multipack",
+
+
+
+
+    "mauistyle.potato_chips.og",
+    "mauistyle.potato_chips.maui_onion",
+    "mauistyle.potato_chips.salt_vinegar",
+    "mauistyle.shrimp_chips",
+    "mauistyle.multipack",
+
+
+
+
+    "santitas.tortilla_triangles",
+    "santitas.tortilla_strips",
+    "santitas.multipack",
+
+
+
+
+    "sabritas.adobadas",
+    "sabritas.multipack",
+
+    
+    
+    
+    "munchies.jalapeno_cheddar",
+    "munchies.cheese_fix",
+    "munchies.sandwich_crackers.nacho_cheese",
+    "munchies.sandwich_crackers.cheddar_cheese",
+    "munchies.sandwich_crackers_jalapeno_cheddar",
+    "munchies.sandwich_crackers.bacon_cheddar",
+    "munchies.mini_sandwich_crackers.cheddar_cheese",
+    "munchies.multipack",
+
+
+
+
+    "stacys.pita_chips.cinnamon_sugar",
+    "stacys.pita_chips.garden_veggie_medley",
+    "stacys.pita_thins.sea_salt",
+    "stacys.pita_thins.five_cheese",
+    "stacys.pita_thins.garlic_herbs",
+    "stacys.multipack",
+
+
+
+
+    "spitz.sunflower_seeds.dill_pickle",
+    "spitz.sunflower_seeds.cracked_pepper",
+    "spitz.multipack",
+
+
+
+
+    "matador.beef_jerky.peppered",
+    "matador.multipack",
+    
+    
+    
+    
+    "grandmas.vanilla",
+    "grandmas.chocolate",
+    "grandmas.peanut_butter",
+    "grandmas.chocolate_brownie",
+    "grandmas.peanut_butter_chocolate_chunks",
+    "grandmas.mini_sandwich_cremes.vanilla",
+    "grandmas.mini_sandwich_cremes.chocolate",
+    "grandmas.mini_sandwich_cremes.peanut_butter",
+    "grandmas.mini_chocolate_chip",
+    "grandmas.multipack",
         
     
     
